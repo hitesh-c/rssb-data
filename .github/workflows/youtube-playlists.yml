@@ -27,7 +27,7 @@ jobs:
         working-directory: ./scripts
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          CHANNEL_ID: "YOUR_CHANNEL_ID" # Replace or pass via secret/env
+          CHANNEL_ID: "UCrpUt9GBfmuaNUIcek8FUZw" # Replace or pass via secret/env
 
       - name: Commit Changes
         run: |
