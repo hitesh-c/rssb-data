@@ -3,7 +3,7 @@ name: Fetch YouTube Channel Playlists
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight UTC
+    - cron: "0 * * * *" # every hour (adjust as needed)
 
 jobs:
   fetch-playlists:
@@ -27,12 +27,14 @@ jobs:
         working-directory: ./scripts
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          CHANNEL_ID: "UCrpUt9GBfmuaNUIcek8FUZw" # Replace or pass via secret/env
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
 
-      - name: Commit Changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/playlists.json
-          git commit -m "Update playlists.json [auto]" || echo "No changes"
+          git commit -m "Update playlists.json [auto]" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
