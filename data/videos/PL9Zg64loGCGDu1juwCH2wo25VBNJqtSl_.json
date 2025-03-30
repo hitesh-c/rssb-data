@@ -1,0 +1,55 @@
+{
+  "last_updated": "2025-03-30T08:53:58.638Z",
+  "playlist_id": "PL9Zg64loGCGDu1juwCH2wo25VBNJqtSl_",
+  "total_videos": 6,
+  "videos": [
+    {
+      "videoId": "aIDr3E7WRoA",
+      "title": "1. Prakaashak Ki Or Se - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-05-27T02:46:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/aIDr3E7WRoA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/aIDr3E7WRoA"
+    },
+    {
+      "videoId": "RgyzCOr6mcI",
+      "title": "2. Bhoomika - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-05-27T02:46:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/RgyzCOr6mcI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RgyzCOr6mcI"
+    },
+    {
+      "videoId": "rPsZd2aXIi4",
+      "title": "3. Bhaag-1 Puraani Yaaden (1940-1946) - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-05-27T02:44:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/rPsZd2aXIi4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rPsZd2aXIi4"
+    },
+    {
+      "videoId": "lyonqguQmiM",
+      "title": "4. Bhaag-2 Vaapsi (1961-1962) - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-05-27T02:44:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/lyonqguQmiM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/lyonqguQmiM"
+    },
+    {
+      "videoId": "NPW9ucV3uNs",
+      "title": "5. Bhaag-2 Vaapsi (31st Jan-7th Mar) 1961-1962 - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2022-05-27T02:44:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/NPW9ucV3uNs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NPW9ucV3uNs"
+    },
+    {
+      "videoId": "VDo9mVaeIFw",
+      "title": "6. Bhaag-2 Vaapsi (8th Mar - End) 1961-1962 - Marg Ki Khoj Mein (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2022-05-27T02:44:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/VDo9mVaeIFw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/VDo9mVaeIFw"
+    }
+  ]
+}

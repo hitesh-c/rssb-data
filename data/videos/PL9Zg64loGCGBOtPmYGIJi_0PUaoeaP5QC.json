@@ -1,0 +1,31 @@
+{
+  "last_updated": "2025-03-30T08:54:05.410Z",
+  "playlist_id": "PL9Zg64loGCGBOtPmYGIJi_0PUaoeaP5QC",
+  "total_videos": 3,
+  "videos": [
+    {
+      "videoId": "Z7-JgioNRCw",
+      "title": "Saahib Main Gulaam Haun Tera - Dariya Sahib Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-02-25T03:04:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/Z7-JgioNRCw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Z7-JgioNRCw"
+    },
+    {
+      "videoId": "xJAPkqLHsvg",
+      "title": "Tum Mero Saaeen Main Tero Daas - Dariya Sahib Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-02T21:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/xJAPkqLHsvg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xJAPkqLHsvg"
+    },
+    {
+      "videoId": "-29VpOYIT9o",
+      "title": "Saahib Main Gulaam Haun Tera - Dariya Sahib Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-02T21:57:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/-29VpOYIT9o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-29VpOYIT9o"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-03-30T08:54:00.055Z",
+  "playlist_id": "PL9Zg64loGCGDMDwXBrD-gfoeZy3zUK9NS",
+  "total_videos": 2,
+  "videos": [
+    {
+      "videoId": "YKl1CZwKWAc",
+      "title": "1. Do Shabd - Haq Halal Ki Kamai (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-03-17T16:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/YKl1CZwKWAc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/YKl1CZwKWAc"
+    },
+    {
+      "videoId": "Fri42255G6w",
+      "title": "2. Haq Halal Ki Kamai - Haq Halal Ki Kamai (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-03-17T16:09:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fri42255G6w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Fri42255G6w"
+    }
+  ]
+}

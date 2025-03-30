@@ -1,0 +1,31 @@
+{
+  "last_updated": "2025-03-30T08:54:05.009Z",
+  "playlist_id": "PL9Zg64loGCGBOC48XxbpBVOkq-ngCbqIN",
+  "total_videos": 3,
+  "videos": [
+    {
+      "videoId": "_OCXOpRjFDE",
+      "title": "Allaah Vaaliya - Sarmad Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-03-01T14:47:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/_OCXOpRjFDE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_OCXOpRjFDE"
+    },
+    {
+      "videoId": "NN4MBsbRTGA",
+      "title": "Firda Main Gunaah De Naal Bhariya - Sarmad Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-02T02:35:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/NN4MBsbRTGA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NN4MBsbRTGA"
+    },
+    {
+      "videoId": "8UZZm3vH_ns",
+      "title": "Tere Baajh Rangeeliya Sajana Oye - Sarmad Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-02T18:03:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/8UZZm3vH_ns/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8UZZm3vH_ns"
+    }
+  ]
+}

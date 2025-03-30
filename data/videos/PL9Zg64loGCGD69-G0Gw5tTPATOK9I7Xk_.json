@@ -1,0 +1,39 @@
+{
+  "last_updated": "2025-03-30T08:54:00.160Z",
+  "playlist_id": "PL9Zg64loGCGD69-G0Gw5tTPATOK9I7Xk_",
+  "total_videos": 4,
+  "videos": [
+    {
+      "videoId": "710dYMo9Rf8",
+      "title": "1. Prakashak Ki Or Se - Anter Ki Awaz (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-01-21T04:29:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/710dYMo9Rf8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/710dYMo9Rf8"
+    },
+    {
+      "videoId": "H6AUJ9jcMpE",
+      "title": "2. Lekhak Ka Prakathan - Anter Ki Awaz (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-01-21T04:29:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/H6AUJ9jcMpE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/H6AUJ9jcMpE"
+    },
+    {
+      "videoId": "XL2Z5JXQuzU",
+      "title": "3. Santon Ka Sandesh - Anter Ki Awaz (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-01-21T04:29:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/XL2Z5JXQuzU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XL2Z5JXQuzU"
+    },
+    {
+      "videoId": "x2zxFZ5kSn8",
+      "title": "4. Prashn Aur Unke Uttar - Anter Ki Awaz (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-01-21T04:29:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/x2zxFZ5kSn8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/x2zxFZ5kSn8"
+    }
+  ]
+}

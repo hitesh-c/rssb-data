@@ -1,0 +1,39 @@
+{
+  "last_updated": "2025-03-30T08:54:01.563Z",
+  "playlist_id": "PL9Zg64loGCGA1AWUP7i7KSF9bMkduuvi1",
+  "total_videos": 4,
+  "videos": [
+    {
+      "videoId": "trSE0FtnFf8",
+      "title": "1. Prakashak ki Or Se - Mira Prem Diwani (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2021-02-28T20:54:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/trSE0FtnFf8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/trSE0FtnFf8"
+    },
+    {
+      "videoId": "Gl_K_pkn2rA",
+      "title": "2. Mirabai Ka Jeevan - Mira Prem Diwani (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2021-02-28T20:54:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/Gl_K_pkn2rA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Gl_K_pkn2rA"
+    },
+    {
+      "videoId": "7Hj0lSPDcPQ",
+      "title": "3. Mirabai Ka Sandesh - Mira Prem Diwani (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2021-02-28T20:54:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/7Hj0lSPDcPQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7Hj0lSPDcPQ"
+    },
+    {
+      "videoId": "n03MmFYuovM",
+      "title": "4. Mirabai Ke Kuch Sankalit Pad - Mira Prem Diwani (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2021-02-28T20:54:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/n03MmFYuovM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/n03MmFYuovM"
+    }
+  ]
+}

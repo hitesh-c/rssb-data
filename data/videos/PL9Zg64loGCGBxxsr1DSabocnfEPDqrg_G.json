@@ -1,0 +1,55 @@
+{
+  "last_updated": "2025-03-30T08:54:01.356Z",
+  "playlist_id": "PL9Zg64loGCGBxxsr1DSabocnfEPDqrg_G",
+  "total_videos": 6,
+  "videos": [
+    {
+      "videoId": "X299w8U66pM",
+      "title": "1. Preface - The Path (English) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2021-04-28T10:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/X299w8U66pM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/X299w8U66pM"
+    },
+    {
+      "videoId": "fciF7uFryrk",
+      "title": "2. The Nature of this World  - The Path (English) -  RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2021-04-28T10:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/fciF7uFryrk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fciF7uFryrk"
+    },
+    {
+      "videoId": "D0pVPcoK9QM",
+      "title": "3. The Search for the Lord  - The Path (English) -  RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2021-04-28T10:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/D0pVPcoK9QM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/D0pVPcoK9QM"
+    },
+    {
+      "videoId": "iuY9tzPR8TQ",
+      "title": "4. Within the Temple of the Body  - The Path (English) -  RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2021-04-28T10:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/iuY9tzPR8TQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iuY9tzPR8TQ"
+    },
+    {
+      "videoId": "jY2Pu4V_iXI",
+      "title": "5. The Living Master - The Path (English) -  RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2021-04-30T00:45:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/jY2Pu4V_iXI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/jY2Pu4V_iXI"
+    },
+    {
+      "videoId": "jAXoOtq-TcQ",
+      "title": "6. Devotion to the Word  - The Path (English) -  RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2021-04-28T10:49:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/jAXoOtq-TcQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/jAXoOtq-TcQ"
+    }
+  ]
+}
