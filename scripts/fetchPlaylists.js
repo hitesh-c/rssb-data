@@ -4,71 +4,117 @@ import https from 'https';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
-// ✅ Required for __dirname in ES Modules
+// ES module __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+// Config
 const API_KEY = process.env.YOUTUBE_API_KEY;
 const CHANNEL_ID = process.env.CHANNEL_ID;
-const OUTPUT_PATH = path.join(__dirname, '../data/playlists.json');
+const OVERVIEW_PATH = path.join(__dirname, '../data/overview.json');
+const VIDEOS_DIR = path.join(__dirname, '../data/videos');
+const ETAG_PATH = path.join(__dirname, '../data/etags.json');
 
-const fetchJson = (url) =>
+// Load ETags
+let etagStore = {};
+if (fs.existsSync(ETAG_PATH)) {
+  etagStore = JSON.parse(fs.readFileSync(ETAG_PATH, 'utf-8'));
+}
+
+// Fetch JSON with ETag
+const fetchJsonWithETag = (url, previousEtag = null) =>
   new Promise((resolve, reject) => {
-    https.get(url, (res) => {
+    const options = { headers: {} };
+    if (previousEtag) {
+      options.headers['If-None-Match'] = previousEtag;
+    }
+
+    const req = https.get(url, options, (res) => {
       let data = '';
-      res.on('data', chunk => data += chunk);
+      res.on('data', (chunk) => (data += chunk));
       res.on('end', () => {
-        try {
-          resolve(JSON.parse(data));
-        } catch (err) {
-          reject(err);
+        if (res.statusCode === 304) {
+          resolve({ notModified: true, etag: previousEtag });
+        } else {
+          try {
+            const json = JSON.parse(data);
+            resolve({ data: json, etag: res.headers.etag });
+          } catch (err) {
+            reject(err);
+          }
         }
       });
-    }).on('error', reject);
+    });
+
+    req.on('error', reject);
   });
 
-const fetchAllPages = async (urlBuilder) => {
-  let results = [];
+// Fetch paginated with ETags
+const fetchAllPagesWithETag = async (key, urlBuilder) => {
+  const allItems = [];
   let nextPageToken = '';
+  let firstEtag = null;
+  let notModified = true;
+
   do {
     const url = urlBuilder(nextPageToken);
-    const json = await fetchJson(url);
-    results = results.concat(json.items || []);
-    nextPageToken = json.nextPageToken || '';
+    const { data, etag, notModified: pageNotModified } = await fetchJsonWithETag(
+      url,
+      etagStore[`${key}_${nextPageToken || 'first'}`]
+    );
+
+    if (pageNotModified) {
+      nextPageToken = null;
+      continue;
+    }
+
+    if (!firstEtag) firstEtag = etag;
+    notModified = false;
+    etagStore[`${key}_${nextPageToken || 'first'}`] = etag;
+    allItems.push(...(data.items || []));
+    nextPageToken = data.nextPageToken || null;
   } while (nextPageToken);
-  return results;
+
+  return { items: allItems, notModified, etag: firstEtag };
 };
 
-const fetchAllPlaylists = async () => {
-  return await fetchAllPages((token) =>
+const fetchAllPlaylists = () => {
+  return fetchAllPagesWithETag('playlists', (token) =>
     `https://www.googleapis.com/youtube/v3/playlists?part=snippet&channelId=${CHANNEL_ID}&maxResults=50&pageToken=${token}&key=${API_KEY}`
   );
 };
 
-const fetchVideosForPlaylist = async (playlistId) => {
-  return await fetchAllPages((token) =>
+const fetchVideosForPlaylist = (playlistId) => {
+  return fetchAllPagesWithETag(`playlist_${playlistId}`, (token) =>
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${playlistId}&maxResults=50&pageToken=${token}&key=${API_KEY}`
   );
 };
 
 const run = async () => {
   console.log('🔄 Fetching playlists...');
-  const playlistsRaw = await fetchAllPlaylists();
+  const { items: playlistsRaw, notModified: playlistsUnchanged } = await fetchAllPlaylists();
 
-  const playlists = [];
+  if (playlistsUnchanged) {
+    console.log('✅ No changes to playlists. Skipping update.');
+    return;
+  }
+
+  const overview = [];
+  fs.mkdirSync(VIDEOS_DIR, { recursive: true });
 
   for (const pl of playlistsRaw) {
-    const plMeta = {
+    const plOverview = {
       id: pl.id,
       title: pl.snippet.title,
       description: pl.snippet.description,
       publishedAt: pl.snippet.publishedAt,
       thumbnails: pl.snippet.thumbnails,
-      videos: [],
     };
 
-    console.log(`▶ Fetching videos in playlist: ${plMeta.title}`);
-    const videosRaw = await fetchVideosForPlaylist(pl.id);
+    overview.push(plOverview);
+
+    console.log(`▶ Fetching videos in playlist: ${plOverview.title}`);
+    const { items: videosRaw } = await fetchVideosForPlaylist(pl.id);
 
     const videos = videosRaw.map((v) => {
       const s = v.snippet;
@@ -82,20 +128,28 @@ const run = async () => {
       };
     });
 
-    plMeta.videos = videos;
-    playlists.push(plMeta);
+    // Write to data/videos/<playlistId>.json
+    const playlistVideoPath = path.join(VIDEOS_DIR, `${pl.id}.json`);
+    fs.writeFileSync(playlistVideoPath, JSON.stringify({
+      last_updated: new Date().toISOString(),
+      playlist_id: pl.id,
+      total_videos: videos.length,
+      videos,
+    }, null, 2));
   }
 
-  const output = {
+  // Write overview.json
+  fs.writeFileSync(OVERVIEW_PATH, JSON.stringify({
     last_updated: new Date().toISOString(),
     channel_id: CHANNEL_ID,
-    total_playlists: playlists.length,
-    playlists,
-  };
+    total_playlists: overview.length,
+    playlists: overview,
+  }, null, 2));
 
-  fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
-  console.log(`✅ Done. Saved ${playlists.length} playlists.`);
+  // Save updated ETags
+  fs.writeFileSync(ETAG_PATH, JSON.stringify(etagStore, null, 2));
+
+  console.log(`✅ Done. Saved overview and ${overview.length} playlist video files.`);
 };
 
 run().catch((err) => {
