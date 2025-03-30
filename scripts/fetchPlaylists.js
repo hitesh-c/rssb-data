@@ -4,7 +4,7 @@ import https from 'https';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
-// ES module __dirname
+// Setup for ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -15,13 +15,13 @@ const OVERVIEW_PATH = path.join(__dirname, '../data/overview.json');
 const VIDEOS_DIR = path.join(__dirname, '../data/videos');
 const ETAG_PATH = path.join(__dirname, '../data/etags.json');
 
-// Load ETags
+// Load cached ETags
 let etagStore = {};
 if (fs.existsSync(ETAG_PATH)) {
   etagStore = JSON.parse(fs.readFileSync(ETAG_PATH, 'utf-8'));
 }
 
-// Fetch JSON with ETag
+// Fetch JSON with optional ETag
 const fetchJsonWithETag = (url, previousEtag = null) =>
   new Promise((resolve, reject) => {
     const options = { headers: {} };
@@ -49,7 +49,7 @@ const fetchJsonWithETag = (url, previousEtag = null) =>
     req.on('error', reject);
   });
 
-// Fetch paginated with ETags
+// Paginated fetch with ETag caching
 const fetchAllPagesWithETag = async (key, urlBuilder) => {
   const allItems = [];
   let nextPageToken = '';
@@ -78,12 +78,14 @@ const fetchAllPagesWithETag = async (key, urlBuilder) => {
   return { items: allItems, notModified, etag: firstEtag };
 };
 
+// Fetch playlists
 const fetchAllPlaylists = () => {
   return fetchAllPagesWithETag('playlists', (token) =>
     `https://www.googleapis.com/youtube/v3/playlists?part=snippet&channelId=${CHANNEL_ID}&maxResults=50&pageToken=${token}&key=${API_KEY}`
   );
 };
 
+// Fetch videos for a playlist
 const fetchVideosForPlaylist = (playlistId) => {
   return fetchAllPagesWithETag(`playlist_${playlistId}`, (token) =>
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${playlistId}&maxResults=50&pageToken=${token}&key=${API_KEY}`
@@ -103,18 +105,17 @@ const run = async () => {
   fs.mkdirSync(VIDEOS_DIR, { recursive: true });
 
   for (const pl of playlistsRaw) {
-    const plOverview = {
-      id: pl.id,
+    const playlistId = pl.id;
+    const plMeta = {
+      id: playlistId,
       title: pl.snippet.title,
       description: pl.snippet.description,
       publishedAt: pl.snippet.publishedAt,
       thumbnails: pl.snippet.thumbnails,
     };
 
-    overview.push(plOverview);
-
-    console.log(`▶ Fetching videos in playlist: ${plOverview.title}`);
-    const { items: videosRaw } = await fetchVideosForPlaylist(pl.id);
+    console.log(`▶ Fetching videos in playlist: ${plMeta.title}`);
+    const { items: videosRaw } = await fetchVideosForPlaylist(playlistId);
 
     const videos = videosRaw.map((v) => {
       const s = v.snippet;
@@ -128,14 +129,20 @@ const run = async () => {
       };
     });
 
-    // Write to data/videos/<playlistId>.json
-    const playlistVideoPath = path.join(VIDEOS_DIR, `${pl.id}.json`);
+    // Write to videos/<playlist_id>.json
+    const playlistVideoPath = path.join(VIDEOS_DIR, `${playlistId}.json`);
     fs.writeFileSync(playlistVideoPath, JSON.stringify({
       last_updated: new Date().toISOString(),
-      playlist_id: pl.id,
+      playlist_id: playlistId,
       total_videos: videos.length,
       videos,
     }, null, 2));
+
+    // Append itemCount to overview entry
+    overview.push({
+      ...plMeta,
+      itemCount: videos.length,
+    });
   }
 
   // Write overview.json
@@ -146,10 +153,10 @@ const run = async () => {
     playlists: overview,
   }, null, 2));
 
-  // Save updated ETags
+  // Write updated etags
   fs.writeFileSync(ETAG_PATH, JSON.stringify(etagStore, null, 2));
 
-  console.log(`✅ Done. Saved overview and ${overview.length} playlist video files.`);
+  console.log(`✅ Done. Saved overview and ${overview.length} playlists.`);
 };
 
 run().catch((err) => {
