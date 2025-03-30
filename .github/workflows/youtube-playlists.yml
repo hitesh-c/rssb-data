@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/playlists.json
+          git add data/ || echo "Nothing to add"
           git commit -m "Update playlists.json [auto]" || echo "No changes to commit"
           git push
         env:
