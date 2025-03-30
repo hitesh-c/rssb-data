@@ -1,0 +1,38 @@
+name: Fetch YouTube Channel Playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+
+jobs:
+  fetch-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+        working-directory: ./scripts
+
+      - name: Run Script to Fetch Playlists
+        run: node fetchPlaylists.js
+        working-directory: ./scripts
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: "YOUR_CHANNEL_ID" # Replace or pass via secret/env
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/playlists.json
+          git commit -m "Update playlists.json [auto]" || echo "No changes"
+          git push
