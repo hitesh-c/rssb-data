@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-04-21T23:11:47.582Z",
+  "last_updated": "2025-04-22T01:00:39.018Z",
   "playlist_id": "PL9Zg64loGCGA5IGwId2y91LGmTxOQGOsP",
-  "total_videos": 46,
+  "total_videos": 47,
   "videos": [
     {
       "videoId": "QmhVfFD8yXE",
@@ -364,12 +364,20 @@
       "embedUrl": "https://www.youtube.com/embed/8tYs7khf1ws"
     },
     {
-      "videoId": "VdI_RV3MKog",
+      "videoId": "COJkU3qJpy8",
       "title": "Kadi Aa Mil Yaar Pyaariya - Saaeen Bulleh Shah Ji - RSSB Shabad",
       "position": 45,
-      "publishedAt": "2025-04-21T22:25:19Z",
-      "thumbnail": "https://i.ytimg.com/vi/VdI_RV3MKog/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/VdI_RV3MKog"
+      "publishedAt": "2025-04-21T23:16:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/COJkU3qJpy8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/COJkU3qJpy8"
+    },
+    {
+      "videoId": "WjSoWuxJboE",
+      "title": "Kadee Morr Muhaaraan Dholiaa - Saaeen Bulleh Shah Ji - RSSB Shabad",
+      "position": 46,
+      "publishedAt": "2025-04-21T23:27:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/WjSoWuxJboE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/WjSoWuxJboE"
     }
   ]
 }
