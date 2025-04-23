@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-04-23T16:16:23.801Z",
+  "last_updated": "2025-04-23T17:11:46.534Z",
   "playlist_id": "PL9Zg64loGCGA4kRQT-tMG3JHI7q_NHLqU",
-  "total_videos": 17,
+  "total_videos": 16,
   "videos": [
     {
       "videoId": "DIT6OYGW-m8",
@@ -92,17 +92,9 @@
       "embedUrl": "https://www.youtube.com/embed/7nn7arlKplQ"
     },
     {
-      "videoId": "fcFfL-AbcYk",
-      "title": "Har Bin Tero Ko Na Sahaayi - Guru Nanak Dev Ji - RSSB Shabad",
-      "position": 11,
-      "publishedAt": "2019-03-04T21:37:47Z",
-      "thumbnail": "https://i.ytimg.com/vi/fcFfL-AbcYk/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/fcFfL-AbcYk"
-    },
-    {
       "videoId": "MD16-Jhi4gM",
       "title": "Har Darsan Bin Rahan Na Jaayi - Guru Nanak Ji - RSSB Shabad",
-      "position": 12,
+      "position": 11,
       "publishedAt": "2019-03-04T21:37:47Z",
       "thumbnail": "https://i.ytimg.com/vi/MD16-Jhi4gM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/MD16-Jhi4gM"
@@ -110,7 +102,7 @@
     {
       "videoId": "n59IhlDrqRY",
       "title": "Aavho Bhainai Gal Milho - Guru Nanak Dev Ji - RSSB Shabad",
-      "position": 13,
+      "position": 12,
       "publishedAt": "2019-03-04T21:37:47Z",
       "thumbnail": "https://i.ytimg.com/vi/n59IhlDrqRY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/n59IhlDrqRY"
@@ -118,7 +110,7 @@
     {
       "videoId": "bl2laMlXXuw",
       "title": "Aape Baho Bidh Rangala - Guru Nanak Dev Ji - RSSB Shabad",
-      "position": 14,
+      "position": 13,
       "publishedAt": "2019-03-04T21:37:47Z",
       "thumbnail": "https://i.ytimg.com/vi/bl2laMlXXuw/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/bl2laMlXXuw"
@@ -126,7 +118,7 @@
     {
       "videoId": "PTVq9fJPH7M",
       "title": "Aavo Sajana Hau Dekha Darsan Tera - Guru Nanak Dev Ji - RSSB Shabad",
-      "position": 15,
+      "position": 14,
       "publishedAt": "2019-03-04T21:37:47Z",
       "thumbnail": "https://i.ytimg.com/vi/PTVq9fJPH7M/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/PTVq9fJPH7M"
@@ -134,7 +126,7 @@
     {
       "videoId": "OrNuQqqKOew",
       "title": "Satgur Hoye Dayaal Ta Shardha Pooreeyai - Guru Nanak Dev Ji - RSSB Shabad",
-      "position": 16,
+      "position": 15,
       "publishedAt": "2025-04-23T15:45:53Z",
       "thumbnail": "https://i.ytimg.com/vi/OrNuQqqKOew/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OrNuQqqKOew"

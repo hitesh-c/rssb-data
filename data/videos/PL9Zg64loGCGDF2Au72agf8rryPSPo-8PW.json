@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-04-23T16:16:25.588Z",
+  "last_updated": "2025-04-23T17:11:48.351Z",
   "playlist_id": "PL9Zg64loGCGDF2Au72agf8rryPSPo-8PW",
-  "total_videos": 8,
+  "total_videos": 9,
   "videos": [
     {
       "videoId": "-ygx0nmUxXY",
@@ -66,6 +66,14 @@
       "publishedAt": "2025-03-22T03:39:01Z",
       "thumbnail": "https://i.ytimg.com/vi/ZtsYNabiO08/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ZtsYNabiO08"
+    },
+    {
+      "videoId": "Tld0oEgfUGc",
+      "title": "Har Bin Tero Ko Na Sahaayi - Guru Tegh Bahadur Ji - RSSB Shabad",
+      "position": 8,
+      "publishedAt": "2025-04-23T17:09:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/Tld0oEgfUGc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Tld0oEgfUGc"
     }
   ]
 }
