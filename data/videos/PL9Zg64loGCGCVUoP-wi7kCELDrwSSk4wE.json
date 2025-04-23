@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-04-23T15:13:58.236Z",
+  "last_updated": "2025-04-23T16:16:24.835Z",
   "playlist_id": "PL9Zg64loGCGCVUoP-wi7kCELDrwSSk4wE",
-  "total_videos": 41,
+  "total_videos": 43,
   "videos": [
     {
       "videoId": "s4-DDsvsVt4",
@@ -330,6 +330,22 @@
       "publishedAt": "2019-03-04T21:42:22Z",
       "thumbnail": "https://i.ytimg.com/vi/B61Lv-Kv0xM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/B61Lv-Kv0xM"
+    },
+    {
+      "videoId": "IorGCH26jSc",
+      "title": "Mere Satgura Main Tujh Bin Avar Na Koye - Guru Ram Das Ji - RSSB Shabad",
+      "position": 41,
+      "publishedAt": "2025-04-23T15:38:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/IorGCH26jSc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IorGCH26jSc"
+    },
+    {
+      "videoId": "L-E96N7en6I",
+      "title": "So Satgur Pyaara Mere Naal Hai - Guru Ram Das Ji - RSSB Shabad",
+      "position": 42,
+      "publishedAt": "2025-04-23T15:59:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/L-E96N7en6I/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/L-E96N7en6I"
     }
   ]
 }
