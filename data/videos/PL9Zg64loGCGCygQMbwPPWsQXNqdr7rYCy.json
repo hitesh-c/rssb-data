@@ -1,31 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:12:23.007Z",
+  "last_updated": "2025-04-24T22:11:49.388Z",
   "playlist_id": "PL9Zg64loGCGCygQMbwPPWsQXNqdr7rYCy",
-  "total_videos": 3,
-  "videos": [
-    {
-      "videoId": "f4Fcnzdzgm4",
-      "title": "The Enigma of Love (English) - RSSB",
-      "position": 0,
-      "publishedAt": "2020-02-29T20:59:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/f4Fcnzdzgm4/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/f4Fcnzdzgm4"
-    },
-    {
-      "videoId": "02ptSppsxCM",
-      "title": "The Enigma of Love - Prem ki Paheli (Hindi) - RSSB",
-      "position": 1,
-      "publishedAt": "2020-02-29T20:59:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/02ptSppsxCM/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/02ptSppsxCM"
-    },
-    {
-      "videoId": "iNz7QBPar98",
-      "title": "The Enigma of Love - Prem di Paheli (Punjabi) - RSSB",
-      "position": 2,
-      "publishedAt": "2020-02-29T20:59:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/iNz7QBPar98/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/iNz7QBPar98"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }

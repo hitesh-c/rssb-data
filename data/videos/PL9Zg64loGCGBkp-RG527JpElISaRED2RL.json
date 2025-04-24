@@ -1,63 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:12:15.861Z",
+  "last_updated": "2025-04-24T22:11:43.977Z",
   "playlist_id": "PL9Zg64loGCGBkp-RG527JpElISaRED2RL",
-  "total_videos": 7,
-  "videos": [
-    {
-      "videoId": "hOe9Woiiukc",
-      "title": "1. Prakaashak Ki Or Se - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 0,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/hOe9Woiiukc/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/hOe9Woiiukc"
-    },
-    {
-      "videoId": "eyuiPe1-lkY",
-      "title": "2. Bhaag-1 : Roohaaniyat Aur Dharm - 1 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 1,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/eyuiPe1-lkY/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/eyuiPe1-lkY"
-    },
-    {
-      "videoId": "-MTMLuOfs88",
-      "title": "3. Bhaag-1 : Roohaaniyat Aur Dharm - 2 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 2,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/-MTMLuOfs88/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/-MTMLuOfs88"
-    },
-    {
-      "videoId": "j2rlN4WfzJo",
-      "title": "4. Bhaag-1 : Roohaaniyat Aur Dharm - 3 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 3,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/j2rlN4WfzJo/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/j2rlN4WfzJo"
-    },
-    {
-      "videoId": "hsKVWP4-a9M",
-      "title": "5. Bhaag-2 : Roohaani Abhyaas - 1 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 4,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/hsKVWP4-a9M/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/hsKVWP4-a9M"
-    },
-    {
-      "videoId": "bKbnGy8Ix0w",
-      "title": "6. Bhaag-2 : Roohaani Abhyaas - 2 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 5,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/bKbnGy8Ix0w/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/bKbnGy8Ix0w"
-    },
-    {
-      "videoId": "w5HdCaKaERM",
-      "title": "7. Bhaag-2 : Roohaani Abhyaas - 3 - Gurmat Sar (Hindi) - RSSB Audio Book",
-      "position": 6,
-      "publishedAt": "2022-05-14T05:05:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/w5HdCaKaERM/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/w5HdCaKaERM"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }

@@ -1,55 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:12:26.148Z",
+  "last_updated": "2025-04-24T22:11:51.173Z",
   "playlist_id": "PL9Zg64loGCGBt4jmJbi976XZCUFUN_HzU",
-  "total_videos": 6,
-  "videos": [
-    {
-      "videoId": "GxbdWjuJvl4",
-      "title": "Aap Sajan Hai - Sant Tukaram Ji - RSSB Shabad",
-      "position": 0,
-      "publishedAt": "2019-03-01T17:51:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/GxbdWjuJvl4/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/GxbdWjuJvl4"
-    },
-    {
-      "videoId": "wfuV-gprbng",
-      "title": "Kar Nahi Paata Kuchh Bhi Jo Hai - Sant Tukaram Ji - RSSB Shabad",
-      "position": 1,
-      "publishedAt": "2019-03-02T18:05:15Z",
-      "thumbnail": "https://i.ytimg.com/vi/wfuV-gprbng/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/wfuV-gprbng"
-    },
-    {
-      "videoId": "E9M20EVr3cE",
-      "title": "Machhali Tarrape Jal Bin Jaise - Sant Tukaram Ji - RSSB Shabad",
-      "position": 2,
-      "publishedAt": "2019-03-02T19:56:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/E9M20EVr3cE/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/E9M20EVr3cE"
-    },
-    {
-      "videoId": "Rs2_Yq1jEQA",
-      "title": "Nahi Samajh Mein Hai Jo Aata - Sant Tukaram Ji - RSSB Shabad",
-      "position": 3,
-      "publishedAt": "2019-03-02T22:51:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/Rs2_Yq1jEQA/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/Rs2_Yq1jEQA"
-    },
-    {
-      "videoId": "cOAT9Cocj3I",
-      "title": "Par Tiriya Nu Samajh Tu Maata - Sant Tukaram Ji - RSSB Shabad",
-      "position": 4,
-      "publishedAt": "2019-03-02T23:24:16Z",
-      "thumbnail": "https://i.ytimg.com/vi/cOAT9Cocj3I/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/cOAT9Cocj3I"
-    },
-    {
-      "videoId": "3RlikOaxKpg",
-      "title": "Rakh Diya Man Tere Charnon Mein - Sant Tukaram Ji - RSSB Shabad",
-      "position": 5,
-      "publishedAt": "2019-03-02T23:51:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/3RlikOaxKpg/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/3RlikOaxKpg"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }

@@ -1,31 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:12:09.199Z",
+  "last_updated": "2025-04-24T22:11:38.305Z",
   "playlist_id": "PL9Zg64loGCGDK29FyYawh06bModbV9BAc",
-  "total_videos": 3,
-  "videos": [
-    {
-      "videoId": "kXyK0XX_Pvk",
-      "title": "Introduction - Honest Living - RSSB Audio Book",
-      "position": 0,
-      "publishedAt": "2023-09-11T19:40:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/kXyK0XX_Pvk/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/kXyK0XX_Pvk"
-    },
-    {
-      "videoId": "g1EYr06L9GQ",
-      "title": "1. The Invisible Prison - Honest Living - RSSB Audio Book",
-      "position": 1,
-      "publishedAt": "2023-09-11T19:42:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/g1EYr06L9GQ/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/g1EYr06L9GQ"
-    },
-    {
-      "videoId": "4mzPQNU_P3U",
-      "title": "2. The Way Forward - Honest Living - RSSB Audio Book",
-      "position": 2,
-      "publishedAt": "2023-09-11T19:42:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/4mzPQNU_P3U/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/4mzPQNU_P3U"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }

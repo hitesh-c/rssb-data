@@ -1,47 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:12:12.246Z",
+  "last_updated": "2025-04-24T22:11:41.254Z",
   "playlist_id": "PL9Zg64loGCGD8oAmmNLLSD_0h2TBk4Xea",
-  "total_videos": 5,
-  "videos": [
-    {
-      "videoId": "O_EZU76TpDw",
-      "title": "Los aldeanos escépticos (Español) - RSSB Vídeo animado",
-      "position": 0,
-      "publishedAt": "2024-12-05T11:08:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/O_EZU76TpDw/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/O_EZU76TpDw"
-    },
-    {
-      "videoId": "WdkJs2zit9Y",
-      "title": "Una luz, muchas lámparas (Español) - RSSB Vídeo animado",
-      "position": 1,
-      "publishedAt": "2024-07-03T17:16:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/WdkJs2zit9Y/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/WdkJs2zit9Y"
-    },
-    {
-      "videoId": "J0W7jJc8v7U",
-      "title": "El viaje del alma (Español) - RSSB Vídeo animado",
-      "position": 2,
-      "publishedAt": "2024-02-20T18:32:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/J0W7jJc8v7U/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/J0W7jJc8v7U"
-    },
-    {
-      "videoId": "v1S_xk7SiEo",
-      "title": "Ve a buscar (Español) - RSSB Vídeo animado",
-      "position": 3,
-      "publishedAt": "2023-02-28T13:01:58Z",
-      "thumbnail": "https://i.ytimg.com/vi/v1S_xk7SiEo/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/v1S_xk7SiEo"
-    },
-    {
-      "videoId": "o8wTmt488ZU",
-      "title": "Ganancia honesta (Español) - RSSB Vídeo animado",
-      "position": 4,
-      "publishedAt": "2023-02-14T13:41:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/o8wTmt488ZU/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/o8wTmt488ZU"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }
