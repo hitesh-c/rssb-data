@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-04-24T22:11:51.118Z",
+  "last_updated": "2025-04-24T23:12:20.010Z",
   "playlist_id": "PL9Zg64loGCGAYzFEznbjqknvcNfYLi0mV",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 4,
+  "videos": [
+    {
+      "videoId": "Re9piSfcLrM",
+      "title": "Aapne Kartav Nibhaavaan - Chup Da Sangeet - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-03-01T17:51:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/Re9piSfcLrM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Re9piSfcLrM"
+    },
+    {
+      "videoId": "OlKWP9E60Vw",
+      "title": "Khambh Main Kitthon Lavaan - Chup Da Sangeet - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-02T22:09:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/OlKWP9E60Vw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OlKWP9E60Vw"
+    },
+    {
+      "videoId": "tmwsTam_2ac",
+      "title": "O Mera Raah Dasera Hai  - Chup Da Sangeet - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-02T22:50:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/tmwsTam_2ac/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tmwsTam_2ac"
+    },
+    {
+      "videoId": "Y2MYaw53MkU",
+      "title": "Rang Ja Tere Pyaar Da Charrhiya - Chup Da Sangeet - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-03-02T23:50:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y2MYaw53MkU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Y2MYaw53MkU"
+    }
+  ]
 }

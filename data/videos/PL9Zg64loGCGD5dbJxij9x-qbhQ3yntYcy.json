@@ -1,6 +1,167 @@
 {
-  "last_updated": "2025-04-24T22:11:36.848Z",
+  "last_updated": "2025-04-24T23:12:03.457Z",
   "playlist_id": "PL9Zg64loGCGD5dbJxij9x-qbhQ3yntYcy",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 20,
+  "videos": [
+    {
+      "videoId": "v5jRvLurCGY",
+      "title": "1. Bhoomika - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/v5jRvLurCGY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/v5jRvLurCGY"
+    },
+    {
+      "videoId": "-NCbXUCu9Jc",
+      "title": "2. Hansa Hira Moti Chugna - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/-NCbXUCu9Jc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-NCbXUCu9Jc"
+    },
+    {
+      "videoId": "OU_BOPT6ADA",
+      "title": "3. Gurbani Aur Maasaahaar - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/OU_BOPT6ADA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OU_BOPT6ADA"
+    },
+    {
+      "videoId": "4atYE9S3DhM",
+      "title": "4. Santmat Aur Maas - Sharaab - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/4atYE9S3DhM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/4atYE9S3DhM"
+    },
+    {
+      "videoId": "_AwL5xyuR4o",
+      "title": "5. Gurumat Aur Maasaahaar - Ek Vivechan - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/_AwL5xyuR4o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_AwL5xyuR4o"
+    },
+    {
+      "videoId": "QmxGALbSwu0",
+      "title": "6. Aitihaasik Tatha Daarshanik Pramaan - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/QmxGALbSwu0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QmxGALbSwu0"
+    },
+    {
+      "videoId": "8UCJKwkVDOE",
+      "title": "7. Anya Dharm Granthon Mein Maasaahaar Ke Vishay Mein Vichaar - Hansa Hira Moti Chugna (Hindi)",
+      "position": 6,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/8UCJKwkVDOE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8UCJKwkVDOE"
+    },
+    {
+      "videoId": "FwW7anaRYKc",
+      "title": "8. Shaakaahaari Ya Maasaahaari - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/FwW7anaRYKc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/FwW7anaRYKc"
+    },
+    {
+      "videoId": "Thms48DOAqw",
+      "title": "9. Insaan Ki Khuraak - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/Thms48DOAqw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Thms48DOAqw"
+    },
+    {
+      "videoId": "I0pJgL5lk5Q",
+      "title": "10. Kuchh Sant-Mahaatmaa'on Ke Vichaar - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/I0pJgL5lk5Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/I0pJgL5lk5Q"
+    },
+    {
+      "videoId": "UbwXoMg02Wc",
+      "title": "11. Kuchh Maha-purushon Ke Vichaar - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/UbwXoMg02Wc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/UbwXoMg02Wc"
+    },
+    {
+      "videoId": "GqePiRFLTSI",
+      "title": "12. Bible Aur Sharaab Ka Prayog - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/GqePiRFLTSI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GqePiRFLTSI"
+    },
+    {
+      "videoId": "kFTZ3vi7Fzs",
+      "title": "13. Sharaab Nishedh - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/kFTZ3vi7Fzs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kFTZ3vi7Fzs"
+    },
+    {
+      "videoId": "44QY3b1TiC4",
+      "title": "14. Parishisht 1- Hukmnaame - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/44QY3b1TiC4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/44QY3b1TiC4"
+    },
+    {
+      "videoId": "Mspq4KE9TC8",
+      "title": "15. Parishisht 2 - Makka-Madina Ki Goshthiyaan - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/Mspq4KE9TC8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Mspq4KE9TC8"
+    },
+    {
+      "videoId": "9Ipb2VVz46Y",
+      "title": "16. Parishisht 3 - Jain Mat Aur Baudh Mat Mein Ahimsa - Hansa Hira Moti Chugna (Hindi)",
+      "position": 15,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Ipb2VVz46Y/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9Ipb2VVz46Y"
+    },
+    {
+      "videoId": "IgW-8aPv11g",
+      "title": "17. Parishisht 4 - Eessai Dharm Mein Maas Sambandhi Updesh - Hansa Hira Moti Chugna (Hindi)",
+      "position": 16,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/IgW-8aPv11g/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IgW-8aPv11g"
+    },
+    {
+      "videoId": "6MrTCUUZIc0",
+      "title": "18. Parishisht 5 - Huzur Maharaj Sawan Singh Ji Ke Kathan - Hansa Hira Moti Chugna (Hindi)",
+      "position": 17,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/6MrTCUUZIc0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/6MrTCUUZIc0"
+    },
+    {
+      "videoId": "MBCR5tM-r2k",
+      "title": "19. Parishisht 6 - Hazarat Nooh Ka Updesh - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/MBCR5tM-r2k/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MBCR5tM-r2k"
+    },
+    {
+      "videoId": "I80lINQ-Ka8",
+      "title": "20. Parishisht 7 - Jhatka Aur Halaal - Hansa Hira Moti Chugna (Hindi) - RSSB Audio Book",
+      "position": 19,
+      "publishedAt": "2023-10-14T22:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/I80lINQ-Ka8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/I80lINQ-Ka8"
+    }
+  ]
 }

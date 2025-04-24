@@ -1,6 +1,183 @@
 {
-  "last_updated": "2025-04-24T22:11:42.127Z",
+  "last_updated": "2025-04-24T23:12:08.718Z",
   "playlist_id": "PL9Zg64loGCGBo88NeB9uJgAw9llTelc7J",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 22,
+  "videos": [
+    {
+      "videoId": "i0QqdgXDz-o",
+      "title": "1.  Prastaavna - Ruhani Diary (Vol 2) (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/i0QqdgXDz-o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/i0QqdgXDz-o"
+    },
+    {
+      "videoId": "lEABN-Z-Zrw",
+      "title": "2. Maharaj Sawan Singh Ji Ke Saath  - 20 Oct to 1 Dec 1944 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/lEABN-Z-Zrw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/lEABN-Z-Zrw"
+    },
+    {
+      "videoId": "VDS4wtPh1c0",
+      "title": "3.  Maharaj Sawan Singh Ji Ke Saath  - 6 Dec to 31 Dec 1944 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/VDS4wtPh1c0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/VDS4wtPh1c0"
+    },
+    {
+      "videoId": "030UD01Mi0Y",
+      "title": "4. Maharaj Sawan Singh Ji Ke Saath  - 1 Jan to 31 Mar 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/030UD01Mi0Y/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/030UD01Mi0Y"
+    },
+    {
+      "videoId": "X0OicR82fD0",
+      "title": "5. Maharaj Sawan Singh Ji Ke Saath - 1 Apr to 27 May 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/X0OicR82fD0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/X0OicR82fD0"
+    },
+    {
+      "videoId": "TSuQdnnQ2ME",
+      "title": "6. Maharaj Sawan Singh Ji Ke Saath - 29 May to 29 June 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/TSuQdnnQ2ME/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TSuQdnnQ2ME"
+    },
+    {
+      "videoId": "xAP_L28zCZ4",
+      "title": "7. Maharaj Sawan Singh Ji Ke Saath - 1 July to 30 July 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/xAP_L28zCZ4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xAP_L28zCZ4"
+    },
+    {
+      "videoId": "DsRsR9UYFIc",
+      "title": "8. Maharaj Sawan Singh Ji Ke Saath - 5 Aug to 2 Sept 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/DsRsR9UYFIc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/DsRsR9UYFIc"
+    },
+    {
+      "videoId": "vUskw4-1Ruk",
+      "title": "9. Maharaj Sawan Singh Ji Ke Saath - 3 Sept to 29 Sept 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/vUskw4-1Ruk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vUskw4-1Ruk"
+    },
+    {
+      "videoId": "4OC7r4-RMN4",
+      "title": "10. Maharaj Sawan Singh Ji Ke Saath - 30 Sept to 30 Oct 1945 - Ruhani Diary (Vol 2)- RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/4OC7r4-RMN4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/4OC7r4-RMN4"
+    },
+    {
+      "videoId": "ZHYFZl8NO0Q",
+      "title": "11. Maharaj Sawan Singh Ji Ke Saath - 3 Nov to 30 Nov 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZHYFZl8NO0Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ZHYFZl8NO0Q"
+    },
+    {
+      "videoId": "hby2SMmM-VI",
+      "title": "12. Maharaj Sawan Singh Ji Ke Saath - 1 Dec to 30 Dec 1945 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/hby2SMmM-VI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/hby2SMmM-VI"
+    },
+    {
+      "videoId": "8WWPaGcA35c",
+      "title": "13. Maharaj Sawan Singh Ji Ke Saath - 1 Jan to 28 Feb 1946 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/8WWPaGcA35c/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8WWPaGcA35c"
+    },
+    {
+      "videoId": "nYPjnRwpdbs",
+      "title": "14. Maharaj Sawan Singh Ji Ke Saath - 2 Mar to 30 April 1946 - Ruhani Diary (Vol 2)- RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/nYPjnRwpdbs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nYPjnRwpdbs"
+    },
+    {
+      "videoId": "1Hk96Huv_Io",
+      "title": "15. Maharaj Sawan Singh Ji Ke Saath - 1 May to 29 May 1946 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/1Hk96Huv_Io/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/1Hk96Huv_Io"
+    },
+    {
+      "videoId": "P_lfXw8oqRU",
+      "title": "16. Maharaj Sawan Singh Ji Ke Saath - 1 June to 27 June 1946 - Ruhani Diary (Vol 2)- RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/P_lfXw8oqRU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/P_lfXw8oqRU"
+    },
+    {
+      "videoId": "JM7lszJCxmE",
+      "title": "17. Maharaj Sawan Singh Ji Ke Saath - 1 July to 31 July 1946 - Ruhani Diary (Vol 2)- RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/JM7lszJCxmE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JM7lszJCxmE"
+    },
+    {
+      "videoId": "32Y4sHjZCDg",
+      "title": "18. Maharaj Sawan Singh Ji Ke Saath - 1 Aug to 30 Oct 1946 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/32Y4sHjZCDg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/32Y4sHjZCDg"
+    },
+    {
+      "videoId": "9-PYFLyDkso",
+      "title": "19. Maharaj Sawan Singh Ji Ke Saath - 8 Nov to 30 Dec 1946 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/9-PYFLyDkso/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9-PYFLyDkso"
+    },
+    {
+      "videoId": "TyiZSCNnjlE",
+      "title": "20. Maharaj Sawan Singh Ji Ke Saath - 8 Jan to 29 June 1947 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 19,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/TyiZSCNnjlE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TyiZSCNnjlE"
+    },
+    {
+      "videoId": "N8tOtCUkyjQ",
+      "title": "21. Maharaj Sawan Singh Ji Ke Saath - 16 July to 29 Dec 1947 - Ruhani Diary (Vol 2)- RSSB Audio Book",
+      "position": 20,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/N8tOtCUkyjQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/N8tOtCUkyjQ"
+    },
+    {
+      "videoId": "P9an2Y2DQTo",
+      "title": "22. Maharaj Sawan Singh Ji Ke Saath - 2 Jan to 4 April 1948 - Ruhani Diary (Vol 2) - RSSB Audio Book",
+      "position": 21,
+      "publishedAt": "2022-12-19T03:04:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/P9an2Y2DQTo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/P9an2Y2DQTo"
+    }
+  ]
 }

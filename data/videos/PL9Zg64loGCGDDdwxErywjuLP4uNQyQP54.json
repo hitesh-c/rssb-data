@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-04-24T22:11:50.604Z",
+  "last_updated": "2025-04-24T23:12:19.625Z",
   "playlist_id": "PL9Zg64loGCGDDdwxErywjuLP4uNQyQP54",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 3,
+  "videos": [
+    {
+      "videoId": "2HMcaPMYzP8",
+      "title": "Ghol Ghumaayaan Saari - Chaturdas Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-03-02T02:35:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/2HMcaPMYzP8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/2HMcaPMYzP8"
+    },
+    {
+      "videoId": "R6-toBvbJWg",
+      "title": "Jhootha Khwaab Khayaal Jahaan Jaata - Chaturdas Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-02T15:04:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/R6-toBvbJWg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/R6-toBvbJWg"
+    },
+    {
+      "videoId": "forzdkCcst4",
+      "title": "Sajjan Darshan Dainda Naahi - Chaturdas Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-02T21:57:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/forzdkCcst4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/forzdkCcst4"
+    }
+  ]
 }

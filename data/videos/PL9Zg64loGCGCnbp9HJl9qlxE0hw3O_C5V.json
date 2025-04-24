@@ -1,6 +1,135 @@
 {
-  "last_updated": "2025-04-24T22:11:44.883Z",
+  "last_updated": "2025-04-24T23:12:12.095Z",
   "playlist_id": "PL9Zg64loGCGCnbp9HJl9qlxE0hw3O_C5V",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 16,
+  "videos": [
+    {
+      "videoId": "xnKlvxRuztc",
+      "title": "1.  Prakaashak Ki Or Se - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/xnKlvxRuztc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xnKlvxRuztc"
+    },
+    {
+      "videoId": "hVUI9DO9FQA",
+      "title": "2. Prastaavanaa - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/hVUI9DO9FQA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/hVUI9DO9FQA"
+    },
+    {
+      "videoId": "yG7I2YTJLeE",
+      "title": "3. Sardar Bahadur Jagat Singh Ka Patr - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/yG7I2YTJLeE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yG7I2YTJLeE"
+    },
+    {
+      "videoId": "yNrpMZcRgEQ",
+      "title": "4. Shri Seva Singh Ka Patr - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/yNrpMZcRgEQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yNrpMZcRgEQ"
+    },
+    {
+      "videoId": "ILgCCUjN5Vg",
+      "title": "5. Shri Jagmohan Lal Ka Patr - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/ILgCCUjN5Vg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ILgCCUjN5Vg"
+    },
+    {
+      "videoId": "8ftLwRMb1Ak",
+      "title": "6. Bhoomika - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/8ftLwRMb1Ak/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8ftLwRMb1Ak"
+    },
+    {
+      "videoId": "bvC9Qpz_kD0",
+      "title": "7. Patr 1 aur 2 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/bvC9Qpz_kD0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/bvC9Qpz_kD0"
+    },
+    {
+      "videoId": "k5z-0zIltxo",
+      "title": "8. Patr 3 aur 4 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/k5z-0zIltxo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/k5z-0zIltxo"
+    },
+    {
+      "videoId": "7-PNux255VE",
+      "title": "9. Patr 5 aur 6 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/7-PNux255VE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7-PNux255VE"
+    },
+    {
+      "videoId": "XxGIPy9j7vc",
+      "title": "10. Patr 7 aur 8 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/XxGIPy9j7vc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XxGIPy9j7vc"
+    },
+    {
+      "videoId": "8fNa76KcU0w",
+      "title": "11. Patr 9 aur 10 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/8fNa76KcU0w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8fNa76KcU0w"
+    },
+    {
+      "videoId": "owvpAIe_YBk",
+      "title": "12. Patr 11 aur 12 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/owvpAIe_YBk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/owvpAIe_YBk"
+    },
+    {
+      "videoId": "DQUZlxc3Q2w",
+      "title": "13. Patr 13 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/DQUZlxc3Q2w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/DQUZlxc3Q2w"
+    },
+    {
+      "videoId": "u3iNV8nOu20",
+      "title": "14. Patr 14 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/u3iNV8nOu20/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/u3iNV8nOu20"
+    },
+    {
+      "videoId": "OenSqnVmQP4",
+      "title": "15. Santmat Ka Saar, Bhaag - 1 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/OenSqnVmQP4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OenSqnVmQP4"
+    },
+    {
+      "videoId": "GXjdiDjd1qE",
+      "title": "16. Santmat Ka Saar, Bhaag – 2 - Mera Satguru (Hindi) - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2022-03-15T22:35:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/GXjdiDjd1qE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GXjdiDjd1qE"
+    }
+  ]
 }

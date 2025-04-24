@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-04-24T22:11:43.669Z",
+  "last_updated": "2025-04-24T23:12:10.561Z",
   "playlist_id": "PL9Zg64loGCGBv7kDSUwvtpGAktpHwS1e8",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 7,
+  "videos": [
+    {
+      "videoId": "dOIcUYGmlsQ",
+      "title": "1. Preface - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/dOIcUYGmlsQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dOIcUYGmlsQ"
+    },
+    {
+      "videoId": "Oktm0iMhMhU",
+      "title": "2.  Part I Life and Message - Mira's Life - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/Oktm0iMhMhU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Oktm0iMhMhU"
+    },
+    {
+      "videoId": "FfUmkJtECzQ",
+      "title": "3.  Mira's Message - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/FfUmkJtECzQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/FfUmkJtECzQ"
+    },
+    {
+      "videoId": "co_XtLcbCDQ",
+      "title": "4.  Part II Selected Poems - Poems 1-24 - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/co_XtLcbCDQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/co_XtLcbCDQ"
+    },
+    {
+      "videoId": "ScJ-UfASqx0",
+      "title": "5.  Poems 25-48 - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/ScJ-UfASqx0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ScJ-UfASqx0"
+    },
+    {
+      "videoId": "SMA5DnHf2PM",
+      "title": "6.  Poems 49-72 - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/SMA5DnHf2PM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SMA5DnHf2PM"
+    },
+    {
+      "videoId": "uYFtZypextc",
+      "title": "7.   Poems 73-96 - Mira - The Divine Lover  - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2022-06-07T22:25:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/uYFtZypextc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uYFtZypextc"
+    }
+  ]
 }

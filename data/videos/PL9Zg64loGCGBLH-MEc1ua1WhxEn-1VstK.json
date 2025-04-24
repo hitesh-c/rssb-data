@@ -1,6 +1,159 @@
 {
-  "last_updated": "2025-04-24T22:11:42.779Z",
+  "last_updated": "2025-04-24T23:12:09.331Z",
   "playlist_id": "PL9Zg64loGCGBLH-MEc1ua1WhxEn-1VstK",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 19,
+  "videos": [
+    {
+      "videoId": "RH7TYnr8O8A",
+      "title": "1. Prakaashak ki or se - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/RH7TYnr8O8A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RH7TYnr8O8A"
+    },
+    {
+      "videoId": "Ygl3c27czmw",
+      "title": "2. Bhoomika - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ygl3c27czmw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Ygl3c27czmw"
+    },
+    {
+      "videoId": "rZ3-_36Lzgc",
+      "title": "3. Jeevan - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/rZ3-_36Lzgc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rZ3-_36Lzgc"
+    },
+    {
+      "videoId": "pZN9z3QEI3I",
+      "title": "4. Updesh aur Sandesh - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/pZN9z3QEI3I/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pZN9z3QEI3I"
+    },
+    {
+      "videoId": "TXUp2bhsSe0",
+      "title": "5. Allah Taala - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/TXUp2bhsSe0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TXUp2bhsSe0"
+    },
+    {
+      "videoId": "MWoq2W_y1jA",
+      "title": "6. Ishq - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/MWoq2W_y1jA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MWoq2W_y1jA"
+    },
+    {
+      "videoId": "MNMv9Aa0i5M",
+      "title": "7. Shareeyat - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/MNMv9Aa0i5M/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MNMv9Aa0i5M"
+    },
+    {
+      "videoId": "LlAWdzYQ7q0",
+      "title": "8. Tareeqat - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/LlAWdzYQ7q0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/LlAWdzYQ7q0"
+    },
+    {
+      "videoId": "4yjt11p6Tlg",
+      "title": "9. Maarfat Aur Haqeeqat - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/4yjt11p6Tlg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/4yjt11p6Tlg"
+    },
+    {
+      "videoId": "L1WAz_waihA",
+      "title": "10. Isme Aazam - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/L1WAz_waihA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/L1WAz_waihA"
+    },
+    {
+      "videoId": "EbwDS0BZYCU",
+      "title": "11. Murshid (Satguru) - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/EbwDS0BZYCU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/EbwDS0BZYCU"
+    },
+    {
+      "videoId": "gP_vMox-5yw",
+      "title": "12. Kaamil Murshid - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/gP_vMox-5yw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/gP_vMox-5yw"
+    },
+    {
+      "videoId": "IvLP2oU9nMQ",
+      "title": "13. Apne Samay ka Murshid - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/IvLP2oU9nMQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IvLP2oU9nMQ"
+    },
+    {
+      "videoId": "CJVG0uj-0e8",
+      "title": "14. Tawakul Aur Raza - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/CJVG0uj-0e8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CJVG0uj-0e8"
+    },
+    {
+      "videoId": "nsHKOBSZOF8",
+      "title": "15. Ai Saadhak Sachet ho ja - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/nsHKOBSZOF8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nsHKOBSZOF8"
+    },
+    {
+      "videoId": "_04pw_pAHWo",
+      "title": "16. Sandesh ka Saar - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/_04pw_pAHWo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_04pw_pAHWo"
+    },
+    {
+      "videoId": "M08f0WEjSkk",
+      "title": "17. Kalaam - Part 1 - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/M08f0WEjSkk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/M08f0WEjSkk"
+    },
+    {
+      "videoId": "oO68SnjIZPw",
+      "title": "18. Kalaam - Part 2 - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/oO68SnjIZPw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oO68SnjIZPw"
+    },
+    {
+      "videoId": "n9_4vGZtyns",
+      "title": "19. Kalaam Ki Khoobiyaan - Kamil Darvesh Shah Latif (Hindi) - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2022-09-08T06:35:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/n9_4vGZtyns/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/n9_4vGZtyns"
+    }
+  ]
 }

@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-04-24T22:11:51.067Z",
+  "last_updated": "2025-04-24T23:12:19.959Z",
   "playlist_id": "PL9Zg64loGCGCfcFn3EBys_-aom4jZfgru",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 4,
+  "videos": [
+    {
+      "videoId": "rCVh6hjRf44",
+      "title": "Aarati Araj Leho Sun Mori - Jagjivan Sahib Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-03-01T17:51:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/rCVh6hjRf44/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rCVh6hjRf44"
+    },
+    {
+      "videoId": "dBeKJbnV9Qw",
+      "title": "Tum Son Ye Man Laaga Mora - Jagjivan Sahib Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-02T21:04:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/dBeKJbnV9Qw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dBeKJbnV9Qw"
+    },
+    {
+      "videoId": "IuBizb8r7BE",
+      "title": "Meri Haath Tumhaare Dori - Jagjivan Sahib Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-02T21:27:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/IuBizb8r7BE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IuBizb8r7BE"
+    },
+    {
+      "videoId": "OG8I_Y3qRA0",
+      "title": "Prabhu Ji Baksaho Chook Hamaari - Jagjivan Sahib Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-03-02T23:50:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/OG8I_Y3qRA0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OG8I_Y3qRA0"
+    }
+  ]
 }

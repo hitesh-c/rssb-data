@@ -1,6 +1,111 @@
 {
-  "last_updated": "2025-04-24T22:11:39.908Z",
+  "last_updated": "2025-04-24T23:12:06.143Z",
   "playlist_id": "PL9Zg64loGCGBCeZbx4914vou7VBIc9DFw",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 13,
+  "videos": [
+    {
+      "videoId": "A3rg-J006sI",
+      "title": "1. Prakaashak Ki Or Se - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/A3rg-J006sI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/A3rg-J006sI"
+    },
+    {
+      "videoId": "ZMUzTWXT2JM",
+      "title": "2. Bhoomika - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZMUzTWXT2JM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ZMUzTWXT2JM"
+    },
+    {
+      "videoId": "f_gsBW_clY0",
+      "title": "3. Bhaag - 1 Naam  Prakaash - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/f_gsBW_clY0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/f_gsBW_clY0"
+    },
+    {
+      "videoId": "5iIGKMuwdiw",
+      "title": "4. Naam Prakaash  Bhaag-1 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/5iIGKMuwdiw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5iIGKMuwdiw"
+    },
+    {
+      "videoId": "qGuvYsIW5JA",
+      "title": "5. Naam Prakaash  Bhaag-2 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/qGuvYsIW5JA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/qGuvYsIW5JA"
+    },
+    {
+      "videoId": "jI5kbLmTU8M",
+      "title": "6. Naam Prakaash  Bhaag-3 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/jI5kbLmTU8M/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/jI5kbLmTU8M"
+    },
+    {
+      "videoId": "CUMn4mHY7gQ",
+      "title": "7. Bhaag - 2 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/CUMn4mHY7gQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CUMn4mHY7gQ"
+    },
+    {
+      "videoId": "supAqoZ7G40",
+      "title": "8. Shabd Bilaas - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/supAqoZ7G40/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/supAqoZ7G40"
+    },
+    {
+      "videoId": "kRR7VdrYNNY",
+      "title": "9. Chune Huye Shabd - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/kRR7VdrYNNY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kRR7VdrYNNY"
+    },
+    {
+      "videoId": "9qnK-7U5_hI",
+      "title": "10. Paarmaarthik  Vichaar-dhaara Bhaag-1 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/9qnK-7U5_hI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9qnK-7U5_hI"
+    },
+    {
+      "videoId": "8N7Ebfl21kI",
+      "title": "11. Paarmaarthik  Vichaar-dhaara Bhaag-2 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/8N7Ebfl21kI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8N7Ebfl21kI"
+    },
+    {
+      "videoId": "7APkzGwUrt8",
+      "title": "12. Paarmaarthik  Vichaar-dhaara Bhaag-3 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/7APkzGwUrt8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7APkzGwUrt8"
+    },
+    {
+      "videoId": "yky10TK3qL0",
+      "title": "13. Paarmaarthik  Vichaar-dhaara Bhaag-4 - Madan Sahib Rachit Granth (Hindi) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2023-05-11T23:48:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/yky10TK3qL0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yky10TK3qL0"
+    }
+  ]
 }

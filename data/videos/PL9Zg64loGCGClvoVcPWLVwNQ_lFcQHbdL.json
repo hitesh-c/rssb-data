@@ -1,6 +1,215 @@
 {
-  "last_updated": "2025-04-24T22:11:41.893Z",
+  "last_updated": "2025-04-24T23:12:08.381Z",
   "playlist_id": "PL9Zg64loGCGClvoVcPWLVwNQ_lFcQHbdL",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 26,
+  "videos": [
+    {
+      "videoId": "B2k8UKci5w0",
+      "title": "1. Vishay Soochi - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2023-01-07T02:19:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/B2k8UKci5w0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/B2k8UKci5w0"
+    },
+    {
+      "videoId": "h3buJRpjti8",
+      "title": "2. Bhaag 3 -  Parmaarth Ki Rehni Ko Apnaana - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2023-01-07T02:19:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/h3buJRpjti8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/h3buJRpjti8"
+    },
+    {
+      "videoId": "IR5edOWTPLg",
+      "title": "3. Satguru Aur Shishya   Prashn 001 To 025 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2023-01-07T02:19:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/IR5edOWTPLg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IR5edOWTPLg"
+    },
+    {
+      "videoId": "wJJ0l-tazeg",
+      "title": "4. Satguru Aur Shishya - Prashn 026 To 050 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/wJJ0l-tazeg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/wJJ0l-tazeg"
+    },
+    {
+      "videoId": "849QgC_zV1Q",
+      "title": "5. Satguru Aur Shishya - Prashn 051 To 075 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/849QgC_zV1Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/849QgC_zV1Q"
+    },
+    {
+      "videoId": "pI8t_Q3WLzA",
+      "title": "6. Satguru Aur Shishya - Prashn 076 To 100 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/pI8t_Q3WLzA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pI8t_Q3WLzA"
+    },
+    {
+      "videoId": "FSQfWJILT70",
+      "title": "7. Satguru Aur Shishya - Prashn 101 To 125 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/FSQfWJILT70/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/FSQfWJILT70"
+    },
+    {
+      "videoId": "iNYK1gfamTo",
+      "title": "8. Satguru Aur Shishya - Prashn 126 To 151 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/iNYK1gfamTo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iNYK1gfamTo"
+    },
+    {
+      "videoId": "7571RsaLvoY",
+      "title": "9. Satsang Aur Seva - Prashna 152 To 175 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/7571RsaLvoY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7571RsaLvoY"
+    },
+    {
+      "videoId": "51RhdvRfaJI",
+      "title": "10. Satguru Aur Seva - Prashn 176 To 200 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/51RhdvRfaJI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/51RhdvRfaJI"
+    },
+    {
+      "videoId": "pV4JpwIm9PM",
+      "title": "11. Satsang Aur Seva - Prashn 201 To 210 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/pV4JpwIm9PM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pV4JpwIm9PM"
+    },
+    {
+      "videoId": "51bSMxtgk8o",
+      "title": "12. Santulit Jeevan - Prashn 211 To 225 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/51bSMxtgk8o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/51bSMxtgk8o"
+    },
+    {
+      "videoId": "nwm6VPl6Epg",
+      "title": "13. Santulit Jeevan - Prashn 226 To 250 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/nwm6VPl6Epg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nwm6VPl6Epg"
+    },
+    {
+      "videoId": "-Uhyh7ylkdI",
+      "title": "14. Santulit Jeevan - Prashn 251 To 275 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/-Uhyh7ylkdI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-Uhyh7ylkdI"
+    },
+    {
+      "videoId": "Fq_vyn4Z34s",
+      "title": "15. Santulit Jeevan - Prashn 276 To 300 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fq_vyn4Z34s/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Fq_vyn4Z34s"
+    },
+    {
+      "videoId": "58Bu01C-snE",
+      "title": "16. Santulit Jeevan - Prashn 301 To 325 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/58Bu01C-snE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/58Bu01C-snE"
+    },
+    {
+      "videoId": "nIFK_XjXkCU",
+      "title": "17. Santulit Jeevan - Prashn 326 To 356 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/nIFK_XjXkCU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nIFK_XjXkCU"
+    },
+    {
+      "videoId": "7W9qYIszBjA",
+      "title": "18. Jeevan Aur Mrityu Ka Saamna Karna - Prashn 357 To 375 - Sant Samvad Bhaag 3 - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/7W9qYIszBjA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7W9qYIszBjA"
+    },
+    {
+      "videoId": "7slfoPfhEOE",
+      "title": "19  Jeevan Aur Mrityu Ka Saamna Karna - Prashn 376 To 400 - Sant Samvad Bhaag 3 - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/7slfoPfhEOE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7slfoPfhEOE"
+    },
+    {
+      "videoId": "Es0mfox1_Nc",
+      "title": "20. Jeevan Aur Mrityu Ka Saamna Karna - Prashn 401 To 425 - Sant Samvad Bhaag 3 - RSSB Audio Book",
+      "position": 19,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/Es0mfox1_Nc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Es0mfox1_Nc"
+    },
+    {
+      "videoId": "o0DOhPMqN0s",
+      "title": "21. Jeevan Aur Mrityu Ka Saamna Karna - Prashn 426 To 450 - Sant Samvad Bhaag 3 - RSSB Audio Book",
+      "position": 20,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/o0DOhPMqN0s/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/o0DOhPMqN0s"
+    },
+    {
+      "videoId": "5_977vnrCqc",
+      "title": "22. Jeevan Aur Mrityu Ka Saamna Karna - Prashn 451 To 475 - Sant Samvad Bhaag 3 - RSSB Audio Book",
+      "position": 21,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/5_977vnrCqc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5_977vnrCqc"
+    },
+    {
+      "videoId": "D2ED-NV15Bs",
+      "title": "23. Asli Chamatkaar - Prashn 476 To 500 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 22,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/D2ED-NV15Bs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/D2ED-NV15Bs"
+    },
+    {
+      "videoId": "PTAXEQHzyIo",
+      "title": "24. Asli Chamatkaar - Prashn 501 To 525 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 23,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/PTAXEQHzyIo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/PTAXEQHzyIo"
+    },
+    {
+      "videoId": "q0wGWnNlGuk",
+      "title": "25. Asli Chamatkaar - Prashn 526 to 548 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 24,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/q0wGWnNlGuk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/q0wGWnNlGuk"
+    },
+    {
+      "videoId": "QGfvfAZrS2w",
+      "title": "26. Upsanhaar - Prashna 549 - Sant Samvad Bhag 3 (Hindi) - RSSB Audio Book",
+      "position": 25,
+      "publishedAt": "2023-01-07T02:19:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/QGfvfAZrS2w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QGfvfAZrS2w"
+    }
+  ]
 }

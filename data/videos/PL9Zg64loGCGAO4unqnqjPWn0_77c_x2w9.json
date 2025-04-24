@@ -1,6 +1,103 @@
 {
-  "last_updated": "2025-04-24T22:11:52.266Z",
+  "last_updated": "2025-04-24T23:12:21.180Z",
   "playlist_id": "PL9Zg64loGCGAO4unqnqjPWn0_77c_x2w9",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 12,
+  "videos": [
+    {
+      "videoId": "Oitvh355c4A",
+      "title": "Are Ai Taqi - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-02-25T03:04:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/Oitvh355c4A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Oitvh355c4A"
+    },
+    {
+      "videoId": "q8bvs0-5BUo",
+      "title": "Jagat Gaafil Para Sota - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-02-25T03:04:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/q8bvs0-5BUo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/q8bvs0-5BUo"
+    },
+    {
+      "videoId": "tVZfh-_8aVE",
+      "title": "Nar Ka Janam Milta Nahi - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-02-25T03:04:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/tVZfh-_8aVE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tVZfh-_8aVE"
+    },
+    {
+      "videoId": "SqQAkzfcLfI",
+      "title": "Satguru Deen Dayaal Bin - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-02-26T02:46:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/SqQAkzfcLfI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SqQAkzfcLfI"
+    },
+    {
+      "videoId": "G9MqqA5bcMs",
+      "title": "Are Ai Taqi - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 4,
+      "publishedAt": "2019-03-01T17:01:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/G9MqqA5bcMs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/G9MqqA5bcMs"
+    },
+    {
+      "videoId": "0AyUSZAkCtk",
+      "title": "Byaakul Birah Deevani - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 5,
+      "publishedAt": "2019-03-01T20:57:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/0AyUSZAkCtk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/0AyUSZAkCtk"
+    },
+    {
+      "videoId": "0ugCrvOOEdA",
+      "title": "Dohe - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 6,
+      "publishedAt": "2019-03-01T22:06:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/0ugCrvOOEdA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/0ugCrvOOEdA"
+    },
+    {
+      "videoId": "BEJrtkjSTk4",
+      "title": "Dil Ka Hujra - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 7,
+      "publishedAt": "2019-03-01T22:06:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/BEJrtkjSTk4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/BEJrtkjSTk4"
+    },
+    {
+      "videoId": "-4fGcQ6eclE",
+      "title": "He Musaafir Jaago - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 8,
+      "publishedAt": "2019-03-02T14:27:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/-4fGcQ6eclE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-4fGcQ6eclE"
+    },
+    {
+      "videoId": "_qtxzAUufwc",
+      "title": "Tulsi Birva Baag Ka - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 9,
+      "publishedAt": "2019-03-02T19:37:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/_qtxzAUufwc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_qtxzAUufwc"
+    },
+    {
+      "videoId": "UFq09MZTo60",
+      "title": "Piya Ke Ain Bin Chain Na Aave - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 10,
+      "publishedAt": "2019-03-02T23:24:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/UFq09MZTo60/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/UFq09MZTo60"
+    },
+    {
+      "videoId": "QW0OqBFZdbM",
+      "title": "Sun Ai Taqi Na Jaaeeyo - Sant Tulsi Sahib Ji - RSSB Shabad",
+      "position": 11,
+      "publishedAt": "2019-03-03T01:25:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/QW0OqBFZdbM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QW0OqBFZdbM"
+    }
+  ]
 }

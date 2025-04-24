@@ -1,6 +1,79 @@
 {
-  "last_updated": "2025-04-24T22:11:52.674Z",
+  "last_updated": "2025-04-24T23:12:21.614Z",
   "playlist_id": "PL9Zg64loGCGDdH76ub-YHveG9QRoQPlYW",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 9,
+  "videos": [
+    {
+      "videoId": "Asgemn6i0X0",
+      "title": "Man Chit Chaatrik Jyon Rahe - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-02-24T22:33:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/Asgemn6i0X0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Asgemn6i0X0"
+    },
+    {
+      "videoId": "EMWaMQf4XbM",
+      "title": "Ajahoon Na Nikasai Praan Kathor - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-01T17:51:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/EMWaMQf4XbM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/EMWaMQf4XbM"
+    },
+    {
+      "videoId": "STjbaLLwieU",
+      "title": "Baaba Naahi Dooja Koi - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-01T20:36:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/STjbaLLwieU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/STjbaLLwieU"
+    },
+    {
+      "videoId": "69LeWcztzDQ",
+      "title": "Daadu Is Sansaar Mein - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-03-01T20:57:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/69LeWcztzDQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/69LeWcztzDQ"
+    },
+    {
+      "videoId": "n9wLoT1e3TM",
+      "title": "Hamaare Tum Hi Ho Rakhpaal - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 4,
+      "publishedAt": "2019-03-02T13:37:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/n9wLoT1e3TM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/n9wLoT1e3TM"
+    },
+    {
+      "videoId": "0EjClyQZpTk",
+      "title": "Til Til Ka Apraadhi Tera - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 5,
+      "publishedAt": "2019-03-02T18:03:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/0EjClyQZpTk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/0EjClyQZpTk"
+    },
+    {
+      "videoId": "TsLmIZnx3-0",
+      "title": "Tu Hi Tu Gurdev Hamaara - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 6,
+      "publishedAt": "2019-03-02T18:03:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/TsLmIZnx3-0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TsLmIZnx3-0"
+    },
+    {
+      "videoId": "ZY2N5Xv7NYI",
+      "title": "Tum Hi Ho Rakhpaal Hamaare  - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 7,
+      "publishedAt": "2019-03-02T19:37:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZY2N5Xv7NYI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ZY2N5Xv7NYI"
+    },
+    {
+      "videoId": "RiUQxaKh1vM",
+      "title": "Raam Kripa Kar Hoh Dayaala - Sant Dadu Dayal Ji - RSSB Shabad",
+      "position": 8,
+      "publishedAt": "2019-03-02T23:50:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/RiUQxaKh1vM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RiUQxaKh1vM"
+    }
+  ]
 }

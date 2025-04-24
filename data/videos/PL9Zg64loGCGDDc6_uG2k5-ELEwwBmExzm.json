@@ -1,6 +1,23 @@
 {
-  "last_updated": "2025-04-24T22:11:48.144Z",
+  "last_updated": "2025-04-24T23:12:15.935Z",
   "playlist_id": "PL9Zg64loGCGDDc6_uG2k5-ELEwwBmExzm",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 2,
+  "videos": [
+    {
+      "videoId": "oOHKKHgbXqo",
+      "title": "Nij Roop Poore Satgur Ka - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2020-08-06T13:18:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/oOHKKHgbXqo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oOHKKHgbXqo"
+    },
+    {
+      "videoId": "OdkLqq68CDc",
+      "title": "Satguru Aaye Deeya Jag Hela - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2020-08-06T13:31:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/OdkLqq68CDc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OdkLqq68CDc"
+    }
+  ]
 }

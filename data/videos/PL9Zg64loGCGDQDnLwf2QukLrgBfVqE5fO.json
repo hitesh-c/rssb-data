@@ -1,6 +1,295 @@
 {
-  "last_updated": "2025-04-24T22:11:51.871Z",
+  "last_updated": "2025-04-24T23:12:20.747Z",
   "playlist_id": "PL9Zg64loGCGDQDnLwf2QukLrgBfVqE5fO",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 36,
+  "videos": [
+    {
+      "videoId": "uPkAJ_mBOgE",
+      "title": "Pyaare Darshan Deejo Aaye - Mirabai Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/uPkAJ_mBOgE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uPkAJ_mBOgE"
+    },
+    {
+      "videoId": "qU7QwAr_B-A",
+      "title": "Ram Naam Mere Man - Mirabai Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/qU7QwAr_B-A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/qU7QwAr_B-A"
+    },
+    {
+      "videoId": "SohRAbP5BSM",
+      "title": "Ri Mere Paar Nikas - Mirabai Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/SohRAbP5BSM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SohRAbP5BSM"
+    },
+    {
+      "videoId": "CKW-kCltl70",
+      "title": "Rattata Kyon Nahi Re - Mirabai Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/CKW-kCltl70/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CKW-kCltl70"
+    },
+    {
+      "videoId": "l-BRfiDpEkU",
+      "title": "Paayo Ji Main Naam Ratan - Mirabai Ji - RSSB Shabad",
+      "position": 4,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/l-BRfiDpEkU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/l-BRfiDpEkU"
+    },
+    {
+      "videoId": "fLd3pfyx9Dw",
+      "title": "Nadiya Gahri Naav Puraani - Mirabai Ji - RSSB Shabad",
+      "position": 5,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/fLd3pfyx9Dw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fLd3pfyx9Dw"
+    },
+    {
+      "videoId": "by3FvhEsQiE",
+      "title": "Pagli Hoon Haan Pagli Re - Mirabai Ji - RSSB Shabad",
+      "position": 6,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/by3FvhEsQiE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/by3FvhEsQiE"
+    },
+    {
+      "videoId": "r9Dsqcc4-tg",
+      "title": "Sakhi Ri Main To Girdhar - Mirabai Ji - RSSB Shabad",
+      "position": 7,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/r9Dsqcc4-tg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r9Dsqcc4-tg"
+    },
+    {
+      "videoId": "K8oAaG7lEjA",
+      "title": "Saheleeyaan Saajan Ghar Aayo - Mirabai Ji - RSSB Shabad",
+      "position": 8,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/K8oAaG7lEjA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/K8oAaG7lEjA"
+    },
+    {
+      "videoId": "roba7Y5jeIw",
+      "title": "Koi Kachhu Kahe - Mirabai Ji - RSSB Shabad",
+      "position": 9,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/roba7Y5jeIw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/roba7Y5jeIw"
+    },
+    {
+      "videoId": "TpALwCgKx4g",
+      "title": "Koi Kahiyo Re Prabhu Aavan Ki - Mirabai Ji - RSSB Shabad",
+      "position": 10,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/TpALwCgKx4g/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TpALwCgKx4g"
+    },
+    {
+      "videoId": "Cou0wqXJpO8",
+      "title": "Laagi Mohe Raam Khumaari Ho - Mirabai Ji - RSSB Shabad",
+      "position": 11,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/Cou0wqXJpO8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Cou0wqXJpO8"
+    },
+    {
+      "videoId": "suzLc3hcA9A",
+      "title": "Milta Jaayo Ho Guru Gyaani - Mirabai Ji - RSSB Shabad",
+      "position": 12,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/suzLc3hcA9A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/suzLc3hcA9A"
+    },
+    {
+      "videoId": "CsUWQOnz_xM",
+      "title": "Mohe Laagi Lagan Guru - Mirabai Ji - RSSB Shabad",
+      "position": 13,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/CsUWQOnz_xM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CsUWQOnz_xM"
+    },
+    {
+      "videoId": "2nqKH-UUtnE",
+      "title": "Mhaaro Janam Maran Ko Saathi - Mirabai Ji - RSSB Shabad",
+      "position": 14,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/2nqKH-UUtnE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/2nqKH-UUtnE"
+    },
+    {
+      "videoId": "vzhrunzyAOE",
+      "title": "Tum Sunau Dayaal Mhaari Araji - Mirabai Ji - RSSB Shabad",
+      "position": 15,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/vzhrunzyAOE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vzhrunzyAOE"
+    },
+    {
+      "videoId": "Jv1Z8OMOxRY",
+      "title": "Tum Palak Ughaarro Deena Naath - Mirabai Ji - RSSB Shabad",
+      "position": 16,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/Jv1Z8OMOxRY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Jv1Z8OMOxRY"
+    },
+    {
+      "videoId": "d2U7bkmsTSQ",
+      "title": "Main To Girdhar Ke Ghar Jaaoon - Mirabai Ji - RSSB Shabad",
+      "position": 17,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/d2U7bkmsTSQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/d2U7bkmsTSQ"
+    },
+    {
+      "videoId": "IUK18vM4fCw",
+      "title": "Man Maane Jab Taar Prabhu Ji - Mirabai Ji - RSSB Shabad",
+      "position": 18,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/IUK18vM4fCw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IUK18vM4fCw"
+    },
+    {
+      "videoId": "BkgcNgLtuF4",
+      "title": "Main Vaari Jaaoon Raam - Mirabai Ji - RSSB Shabad",
+      "position": 19,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/BkgcNgLtuF4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/BkgcNgLtuF4"
+    },
+    {
+      "videoId": "VEjaQcXo0xk",
+      "title": "Maayi Ri Main To Leeno Gobind Mol - Mirabai Ji - RSSB Shabad",
+      "position": 20,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/VEjaQcXo0xk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/VEjaQcXo0xk"
+    },
+    {
+      "videoId": "YH1mvm5VnuI",
+      "title": "Mahaari Sudh Jyoon Jaano - Mirabai Ji - RSSB Shabad",
+      "position": 21,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/YH1mvm5VnuI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/YH1mvm5VnuI"
+    },
+    {
+      "videoId": "KNPOHpReCk4",
+      "title": "Tum Bin Rahiyo Na Jaaye - Mirabai Ji - RSSB Shabad",
+      "position": 22,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/KNPOHpReCk4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/KNPOHpReCk4"
+    },
+    {
+      "videoId": "p_Fl8vPS8Eo",
+      "title": "Tanak Hari Chitvau Ji - Mirabai Ji - RSSB Shabad",
+      "position": 23,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/p_Fl8vPS8Eo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/p_Fl8vPS8Eo"
+    },
+    {
+      "videoId": "i_5Q8IlgqvY",
+      "title": "Jab Se Tum Bichhare Mere Prabhu Ji - Mirabai Ji - RSSB Shabad",
+      "position": 24,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/i_5Q8IlgqvY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/i_5Q8IlgqvY"
+    },
+    {
+      "videoId": "l2oFjd98SJQ",
+      "title": "He Ri Main To Prem Deevaani - Mirabai Ji - RSSB Shabad",
+      "position": 25,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/l2oFjd98SJQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/l2oFjd98SJQ"
+    },
+    {
+      "videoId": "U9khAvowUlU",
+      "title": "Gharri Ek Nahin Aavarre - Mirabai Ji - RSSB Shabad",
+      "position": 26,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/U9khAvowUlU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/U9khAvowUlU"
+    },
+    {
+      "videoId": "GhDKr56tK3w",
+      "title": "Gali To Chaaron Band Hui - Mirabai Ji - RSSB Shabad",
+      "position": 27,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/GhDKr56tK3w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GhDKr56tK3w"
+    },
+    {
+      "videoId": "9lwmYTzqXQA",
+      "title": "Faagun Ke Din Chaar - Mirabai Ji - RSSB Shabad",
+      "position": 28,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/9lwmYTzqXQA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9lwmYTzqXQA"
+    },
+    {
+      "videoId": "24b63c_wBxs",
+      "title": "Dookhan Laagai Nain Daras Bin - Mirabai Ji - RSSB Shabad",
+      "position": 29,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/24b63c_wBxs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/24b63c_wBxs"
+    },
+    {
+      "videoId": "tjYlbAEgi2o",
+      "title": "Chhorr Mat Jaajyo Ji Maaharaaj - Mirabai Ji - RSSB Shabad",
+      "position": 30,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/tjYlbAEgi2o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tjYlbAEgi2o"
+    },
+    {
+      "videoId": "C_0zwSDOKsM",
+      "title": "Baalha Main Bairaagan Hoongi - Mirabai Ji - RSSB Shabad",
+      "position": 31,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/C_0zwSDOKsM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/C_0zwSDOKsM"
+    },
+    {
+      "videoId": "3xzDZL8KQ9s",
+      "title": "Aaye Milau Mohe Preetam Pyaare - Mirabai Ji - RSSB Shabad",
+      "position": 32,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/3xzDZL8KQ9s/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/3xzDZL8KQ9s"
+    },
+    {
+      "videoId": "1Ze5Sh2y0rA",
+      "title": "Ab To Nibhaayaan Saregi - Mirabai Ji - RSSB Shabad",
+      "position": 33,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/1Ze5Sh2y0rA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/1Ze5Sh2y0rA"
+    },
+    {
+      "videoId": "w3vixv6YyAk",
+      "title": "Ab Main Saran Tihaari Ji - Mirabai Ji - RSSB Shabad",
+      "position": 34,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/w3vixv6YyAk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/w3vixv6YyAk"
+    },
+    {
+      "videoId": "USX6hCtRCv8",
+      "title": "He Ri Main To Prem Deevaani - Mirabai Ji - RSSB Shabad",
+      "position": 35,
+      "publishedAt": "2019-03-04T21:49:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/USX6hCtRCv8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/USX6hCtRCv8"
+    }
+  ]
 }

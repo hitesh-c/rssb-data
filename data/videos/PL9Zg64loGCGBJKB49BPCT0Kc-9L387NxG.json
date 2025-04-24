@@ -1,6 +1,71 @@
 {
-  "last_updated": "2025-04-24T22:11:52.960Z",
+  "last_updated": "2025-04-24T23:12:21.946Z",
   "playlist_id": "PL9Zg64loGCGBJKB49BPCT0Kc-9L387NxG",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 8,
+  "videos": [
+    {
+      "videoId": "kJBj8I85Ss0",
+      "title": "Tum Gunvant Main Augun Bhaari - Sahjobai Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2019-02-24T22:33:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/kJBj8I85Ss0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kJBj8I85Ss0"
+    },
+    {
+      "videoId": "RapW6EaTvYw",
+      "title": "Ab Tum Apni Or Nihaaro - Sahjobai Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2019-03-01T17:01:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/RapW6EaTvYw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RapW6EaTvYw"
+    },
+    {
+      "videoId": "oH8rNGwhGy8",
+      "title": "Charandas Satguru Deeyo Prem Pyaala - Sahjobai Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2019-03-01T20:57:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/oH8rNGwhGy8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oH8rNGwhGy8"
+    },
+    {
+      "videoId": "NdtL0VC0Yt0",
+      "title": "Dhanvante Dukhiye Sabhi - Sahjobai Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2019-03-02T00:29:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/NdtL0VC0Yt0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NdtL0VC0Yt0"
+    },
+    {
+      "videoId": "l2DKeEBkdMQ",
+      "title": "Hamaare Guru Pooran Daataar - Sahjobai Ji - RSSB Shabad",
+      "position": 4,
+      "publishedAt": "2019-03-02T13:37:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/l2DKeEBkdMQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/l2DKeEBkdMQ"
+    },
+    {
+      "videoId": "3ayJYFqnAqs",
+      "title": "Tum Gunvant Main Augun Bhaari - Sahjobai Ji - RSSB Shabad",
+      "position": 5,
+      "publishedAt": "2019-03-02T19:37:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/3ayJYFqnAqs/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/3ayJYFqnAqs"
+    },
+    {
+      "videoId": "W4L-icvZPWU",
+      "title": "Prem Divaane Jo Bhaye - Sahjobai Ji - RSSB Shabad",
+      "position": 6,
+      "publishedAt": "2019-03-02T23:50:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/W4L-icvZPWU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/W4L-icvZPWU"
+    },
+    {
+      "videoId": "SmR00jMeGAk",
+      "title": "Shish Ka Maana Satguru - Sahjobai Ji - RSSB Shabad",
+      "position": 7,
+      "publishedAt": "2019-03-03T01:25:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/SmR00jMeGAk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SmR00jMeGAk"
+    }
+  ]
 }

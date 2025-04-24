@@ -1,6 +1,167 @@
 {
-  "last_updated": "2025-04-24T22:11:37.205Z",
+  "last_updated": "2025-04-24T23:12:03.710Z",
   "playlist_id": "PL9Zg64loGCGBUxpGodjaUpboEdJ80FETw",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 20,
+  "videos": [
+    {
+      "videoId": "zGlFTxHpEJE",
+      "title": "Preface - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/zGlFTxHpEJE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/zGlFTxHpEJE"
+    },
+    {
+      "videoId": "r0HW9zu36jU",
+      "title": "1. All Saints Bring the Same Message - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/r0HW9zu36jU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r0HW9zu36jU"
+    },
+    {
+      "videoId": "JdmE8aON9UQ",
+      "title": "2. The Soul Is of the Essence of the Lord - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/JdmE8aON9UQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JdmE8aON9UQ"
+    },
+    {
+      "videoId": "tBCAY3f77_Y",
+      "title": "3. The Human Form Is for Realizing the Lord - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/tBCAY3f77_Y/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tBCAY3f77_Y"
+    },
+    {
+      "videoId": "IPC1X9LacDk",
+      "title": "4. God Is in the Soul and the Soul Is in God - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/IPC1X9LacDk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IPC1X9LacDk"
+    },
+    {
+      "videoId": "lRflh2QlcO0",
+      "title": "5. The World Is Blind - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/lRflh2QlcO0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/lRflh2QlcO0"
+    },
+    {
+      "videoId": "n36rJZDq1Lw",
+      "title": "6. The Mind Must Be Awakened - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/n36rJZDq1Lw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/n36rJZDq1Lw"
+    },
+    {
+      "videoId": "Q8q1D8YbneI",
+      "title": "7. The Lord Is within Us - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q8q1D8YbneI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Q8q1D8YbneI"
+    },
+    {
+      "videoId": "jxVnsolK-Hw",
+      "title": "8. Obey Not the Dictates of the Mind - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/jxVnsolK-Hw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/jxVnsolK-Hw"
+    },
+    {
+      "videoId": "O_lZYyjjN6E",
+      "title": "9. Nam Is the Immanent Power - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/O_lZYyjjN6E/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/O_lZYyjjN6E"
+    },
+    {
+      "videoId": "GhzaLb0L9dg",
+      "title": "10. The Human Form Is a Blessed Boon - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/GhzaLb0L9dg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GhzaLb0L9dg"
+    },
+    {
+      "videoId": "PGLr5pyiKx4",
+      "title": "11. The Disciple's Way of Life - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/PGLr5pyiKx4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/PGLr5pyiKx4"
+    },
+    {
+      "videoId": "nTX27FOjvho",
+      "title": "12. Saints Come to Cut Away Our Chains - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/nTX27FOjvho/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nTX27FOjvho"
+    },
+    {
+      "videoId": "dDE9ho61wgE",
+      "title": "13. Untie the Knot of Mind and Soul - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/dDE9ho61wgE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dDE9ho61wgE"
+    },
+    {
+      "videoId": "r8pgk5kL1oI",
+      "title": "14. Seek the Lord Within - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/r8pgk5kL1oI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r8pgk5kL1oI"
+    },
+    {
+      "videoId": "8RjD-MRi_0s",
+      "title": "15. We Reap What We Sow - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/8RjD-MRi_0s/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8RjD-MRi_0s"
+    },
+    {
+      "videoId": "2RJlh0VV1O0",
+      "title": "16. Nam Is Our Only True Friend - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/2RJlh0VV1O0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/2RJlh0VV1O0"
+    },
+    {
+      "videoId": "drvnCI74jXw",
+      "title": "17. We Must Knock at the Door of the Lord - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/drvnCI74jXw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/drvnCI74jXw"
+    },
+    {
+      "videoId": "kO-V17JXPns",
+      "title": "18. The Body Is the Temple of the Lord - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/kO-V17JXPns/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kO-V17JXPns"
+    },
+    {
+      "videoId": "ySoMW-t-zB0",
+      "title": "19. Only the Satguru Is Deserving of Our Love - Spiritual Discourses 1 (English) - RSSB Audio Book",
+      "position": 19,
+      "publishedAt": "2023-09-12T18:57:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/ySoMW-t-zB0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ySoMW-t-zB0"
+    }
+  ]
 }

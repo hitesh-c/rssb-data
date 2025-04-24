@@ -1,6 +1,247 @@
 {
-  "last_updated": "2025-04-24T22:11:48.957Z",
+  "last_updated": "2025-04-24T23:12:17.071Z",
   "playlist_id": "PL9Zg64loGCGByHhyJ-BBUlz4TSD5hRbTK",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 30,
+  "videos": [
+    {
+      "videoId": "GRFsXRihsmQ",
+      "title": "Aap Wanjaye Tan Sabh Kuch Paiye - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 0,
+      "publishedAt": "2020-04-20T19:13:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/GRFsXRihsmQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GRFsXRihsmQ"
+    },
+    {
+      "videoId": "L2kbq-WttpM",
+      "title": "Darshan Bhetath Paap Sabh Nase - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 1,
+      "publishedAt": "2020-04-20T19:14:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/L2kbq-WttpM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/L2kbq-WttpM"
+    },
+    {
+      "videoId": "JBpd3I_nisQ",
+      "title": "Dekho Sabh Jag Jaat Baha - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 2,
+      "publishedAt": "2020-04-20T19:14:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/JBpd3I_nisQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JBpd3I_nisQ"
+    },
+    {
+      "videoId": "38ypZI08WKo",
+      "title": "Dhaam Apne Chalo Bhai - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 3,
+      "publishedAt": "2020-04-20T19:14:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/38ypZI08WKo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/38ypZI08WKo"
+    },
+    {
+      "videoId": "saUjoIk5N5g",
+      "title": "Dil Ka Hujra Saaf Kar - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 4,
+      "publishedAt": "2020-04-20T19:14:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/saUjoIk5N5g/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/saUjoIk5N5g"
+    },
+    {
+      "videoId": "uObH1vsOB8w",
+      "title": "Gur Ki Murat Man Mein Dhyan - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 5,
+      "publishedAt": "2020-04-20T19:15:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/uObH1vsOB8w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uObH1vsOB8w"
+    },
+    {
+      "videoId": "reHhuDfu3O4",
+      "title": "Guru Ka Dhyan Kar Piyara - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 6,
+      "publishedAt": "2020-04-20T19:15:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/reHhuDfu3O4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/reHhuDfu3O4"
+    },
+    {
+      "videoId": "tS8aFlgsnsY",
+      "title": "Guru Kahe Jagat Sab Andha - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 7,
+      "publishedAt": "2020-04-20T19:15:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/tS8aFlgsnsY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tS8aFlgsnsY"
+    },
+    {
+      "videoId": "nyIZ47FsH4Q",
+      "title": "Guru Kahein Khol Ker Bhai - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 8,
+      "publishedAt": "2020-04-20T19:16:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/nyIZ47FsH4Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/nyIZ47FsH4Q"
+    },
+    {
+      "videoId": "Ko5BH-uUZQw",
+      "title": "Hukme Shehje Shrist Apaiye - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 9,
+      "publishedAt": "2020-04-20T19:17:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ko5BH-uUZQw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Ko5BH-uUZQw"
+    },
+    {
+      "videoId": "AFfHY3C0OIA",
+      "title": "Is Gufa Mein Akuth Bhandara - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 10,
+      "publishedAt": "2020-04-20T19:17:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/AFfHY3C0OIA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/AFfHY3C0OIA"
+    },
+    {
+      "videoId": "un89g3Rjpuk",
+      "title": "Is Jug Ka Dharam Parho Tum Bhai - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 11,
+      "publishedAt": "2020-04-20T19:17:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/un89g3Rjpuk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/un89g3Rjpuk"
+    },
+    {
+      "videoId": "ZiVc4B0aARQ",
+      "title": "Karo Ri Koi Satsang Aaj Banaye - Maharaj Charan Singh Ji - Hindi - RSSB Discourse",
+      "position": 12,
+      "publishedAt": "2020-04-20T19:13:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZiVc4B0aARQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ZiVc4B0aARQ"
+    },
+    {
+      "videoId": "r7v2sFAv1s4",
+      "title": "Karo Ri Koi Satsang Aaj Banaye - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 13,
+      "publishedAt": "2020-04-20T19:20:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/r7v2sFAv1s4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r7v2sFAv1s4"
+    },
+    {
+      "videoId": "4GkqpQ1Uz38",
+      "title": "Man Khin Khin Bharam - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 14,
+      "publishedAt": "2020-04-20T19:20:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/4GkqpQ1Uz38/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/4GkqpQ1Uz38"
+    },
+    {
+      "videoId": "QI_zvXsATcc",
+      "title": "Man Re Kyun Guman Ab Karna - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 15,
+      "publishedAt": "2020-04-20T19:21:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/QI_zvXsATcc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QI_zvXsATcc"
+    },
+    {
+      "videoId": "mAim6qqkVt0",
+      "title": "Mittar Tera Koi Nahin Sangian Mein - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 16,
+      "publishedAt": "2020-04-20T19:21:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/mAim6qqkVt0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/mAim6qqkVt0"
+    },
+    {
+      "videoId": "-HTRnFSho6A",
+      "title": "Naam Mile Man Triptiye - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 17,
+      "publishedAt": "2023-02-24T15:34:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/-HTRnFSho6A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-HTRnFSho6A"
+    },
+    {
+      "videoId": "NyHxTpg4Mq0",
+      "title": "Premi Sunno Prem Ki Baat - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 18,
+      "publishedAt": "2020-04-20T19:21:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/NyHxTpg4Mq0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NyHxTpg4Mq0"
+    },
+    {
+      "videoId": "JvLQU1-zvM4",
+      "title": "Ram Gur Paras, Paras Karije - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 19,
+      "publishedAt": "2020-04-20T19:23:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/JvLQU1-zvM4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JvLQU1-zvM4"
+    },
+    {
+      "videoId": "wWwI5DHM3Ro",
+      "title": "Rama Hum Dasan Das Karije - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 20,
+      "publishedAt": "2020-04-20T19:23:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/wWwI5DHM3Ro/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/wWwI5DHM3Ro"
+    },
+    {
+      "videoId": "hYKswv0CUcQ",
+      "title": "Rama Rum Ramo, Sun Man Bhije - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 21,
+      "publishedAt": "2020-04-20T19:23:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/hYKswv0CUcQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/hYKswv0CUcQ"
+    },
+    {
+      "videoId": "WxySAdTZh1E",
+      "title": "Saheb Ke Darbar Mein/Ulta Kuan Gagan Mein - Maharaj Charan Singh Ji - Hindi Translation - RSSB",
+      "position": 22,
+      "publishedAt": "2020-04-20T19:24:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/WxySAdTZh1E/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/WxySAdTZh1E"
+    },
+    {
+      "videoId": "MxdwkAKVHOM",
+      "title": "Sant Janah Mil Bhaiyon - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 23,
+      "publishedAt": "2020-04-20T19:24:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/MxdwkAKVHOM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MxdwkAKVHOM"
+    },
+    {
+      "videoId": "6-qxOlS_lME",
+      "title": "Satguru Kahe Karo Tum - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 24,
+      "publishedAt": "2020-04-20T19:24:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/6-qxOlS_lME/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/6-qxOlS_lME"
+    },
+    {
+      "videoId": "kpDGw3MgBDY",
+      "title": "Satguru Sharan Gaho Mere Piare - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 25,
+      "publishedAt": "2020-04-20T19:25:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/kpDGw3MgBDY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kpDGw3MgBDY"
+    },
+    {
+      "videoId": "Q8Q57uaC6FQ",
+      "title": "Shabad Bina Sara Jag Andha - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 26,
+      "publishedAt": "2020-04-20T19:25:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q8Q57uaC6FQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Q8Q57uaC6FQ"
+    },
+    {
+      "videoId": "rXObjLKKFaM",
+      "title": "Surat Sun Baat Ree - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 27,
+      "publishedAt": "2020-04-20T19:25:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/rXObjLKKFaM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rXObjLKKFaM"
+    },
+    {
+      "videoId": "WdsJPH-y1cA",
+      "title": "Tajo Man Dukh Sukh Ka Dham - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 28,
+      "publishedAt": "2020-04-20T19:25:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/WdsJPH-y1cA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/WdsJPH-y1cA"
+    },
+    {
+      "videoId": "NUNiwJhk-0E",
+      "title": "Terian Khani Terian Bani - Maharaj Charan Singh Ji - Hindi Translation - RSSB Discourse",
+      "position": 29,
+      "publishedAt": "2020-04-20T19:26:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/NUNiwJhk-0E/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NUNiwJhk-0E"
+    }
+  ]
 }

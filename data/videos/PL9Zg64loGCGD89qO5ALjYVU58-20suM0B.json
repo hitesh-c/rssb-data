@@ -1,6 +1,103 @@
 {
-  "last_updated": "2025-04-24T22:11:36.560Z",
+  "last_updated": "2025-04-24T23:12:03.222Z",
   "playlist_id": "PL9Zg64loGCGD89qO5ALjYVU58-20suM0B",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 12,
+  "videos": [
+    {
+      "videoId": "8XEOzlH1Boc",
+      "title": "Preface - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/8XEOzlH1Boc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8XEOzlH1Boc"
+    },
+    {
+      "videoId": "fEIxELV9RUU",
+      "title": "My Submission - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/fEIxELV9RUU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fEIxELV9RUU"
+    },
+    {
+      "videoId": "kkUZriHm9sM",
+      "title": "1. Service (Seva) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/kkUZriHm9sM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kkUZriHm9sM"
+    },
+    {
+      "videoId": "OcM1_UmDT5k",
+      "title": "2. Action Without Desire (Nishkarmta) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/OcM1_UmDT5k/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OcM1_UmDT5k"
+    },
+    {
+      "videoId": "DfH_pnU1lrE",
+      "title": "3. Destiny (Dhur Karma) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/DfH_pnU1lrE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/DfH_pnU1lrE"
+    },
+    {
+      "videoId": "Lv8OFai0-8Q",
+      "title": "4. Time of Elixir (Amrit Vela) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/Lv8OFai0-8Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Lv8OFai0-8Q"
+    },
+    {
+      "videoId": "3zhFdPB_iq4",
+      "title": "5. Posture (Asan) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/3zhFdPB_iq4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/3zhFdPB_iq4"
+    },
+    {
+      "videoId": "R-xRAYF8QcY",
+      "title": "6. Remembrance or Repetition (Simran) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/R-xRAYF8QcY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/R-xRAYF8QcY"
+    },
+    {
+      "videoId": "-beDEGZ7bkA",
+      "title": "7. Contemplation (Dhyan) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/-beDEGZ7bkA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-beDEGZ7bkA"
+    },
+    {
+      "videoId": "r_8cLBOwGdc",
+      "title": "8. Listening to Shabd-Dhun (Bhajan) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/r_8cLBOwGdc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r_8cLBOwGdc"
+    },
+    {
+      "videoId": "yWilTfO2F94",
+      "title": "9. Dying While Living (Jite-Ji Marna) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/yWilTfO2F94/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yWilTfO2F94"
+    },
+    {
+      "videoId": "-jxqFlA4jSU",
+      "title": "10. Spiritual Discourse (Satsang) - Philosophy of the Masters (Volume 1) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2024-05-02T06:55:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/-jxqFlA4jSU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-jxqFlA4jSU"
+    }
+  ]
 }
