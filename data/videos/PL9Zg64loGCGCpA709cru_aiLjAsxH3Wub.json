@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-27T03:04:46.662Z",
+  "last_updated": "2025-04-27T04:14:37.525Z",
   "playlist_id": "PL9Zg64loGCGCpA709cru_aiLjAsxH3Wub",
   "total_videos": 21,
   "videos": [
@@ -148,17 +148,9 @@
       "embedUrl": "https://www.youtube.com/embed/twPd6nWBFks"
     },
     {
-      "videoId": "GUsBYv6xD-Q",
-      "title": "Aashiq raaz maahee de kolon - Hazrat Sultan Bahu Ji - RSSB Shabad",
-      "position": 18,
-      "publishedAt": "2019-03-04T21:47:40Z",
-      "thumbnail": "https://i.ytimg.com/vi/GUsBYv6xD-Q/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/GUsBYv6xD-Q"
-    },
-    {
       "videoId": "EKS2_KBCE8g",
       "title": "Allah Parrhiya Parrh Haafiz Hoya - Hazrat Sultan Bahu - RSSB Shabad",
-      "position": 19,
+      "position": 18,
       "publishedAt": "2019-03-04T21:47:40Z",
       "thumbnail": "https://i.ytimg.com/vi/EKS2_KBCE8g/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/EKS2_KBCE8g"
@@ -166,10 +158,18 @@
     {
       "videoId": "Q0fbnYS-kUY",
       "title": "Alaf Allah Chambe Di Booti - Hazrat Sultan Bahu - RSSB Shabad",
-      "position": 20,
+      "position": 19,
       "publishedAt": "2019-03-04T21:47:40Z",
       "thumbnail": "https://i.ytimg.com/vi/Q0fbnYS-kUY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Q0fbnYS-kUY"
+    },
+    {
+      "videoId": "aaZBBKy5dZg",
+      "title": "Aashiq Raaz Maahi De - Hazrat Sultan Bahu Ji - RSSB Shabad",
+      "position": 20,
+      "publishedAt": "2025-04-27T03:49:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/aaZBBKy5dZg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/aaZBBKy5dZg"
     }
   ]
 }
