@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-05-09T15:13:37.466Z",
+  "last_updated": "2025-05-09T16:15:47.243Z",
   "playlist_id": "PL9Zg64loGCGBTdxF1NRsqG6xZFHQBzSXk",
-  "total_videos": 75,
+  "total_videos": 74,
   "videos": [
     {
       "videoId": "bUupXI-B0N4",
@@ -428,17 +428,9 @@
       "embedUrl": "https://www.youtube.com/embed/SWAMBR1viww"
     },
     {
-      "videoId": "75PGP1brhP0",
-      "title": "Mere Pyaare Guru Daataar - Soami Ji Maharaj - RSSB Shabad",
-      "position": 53,
-      "publishedAt": "2019-03-04T22:05:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/75PGP1brhP0/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/75PGP1brhP0"
-    },
-    {
       "videoId": "UGfajXua7Fw",
       "title": "Mangoon Ek Guru Se Daana - Soami Ji Maharaj - RSSB Shabad",
-      "position": 54,
+      "position": 53,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/UGfajXua7Fw/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/UGfajXua7Fw"
@@ -446,7 +438,7 @@
     {
       "videoId": "wqrXNrZnXSg",
       "title": "Man Re Kyon Gumaan Ab Karna - Soami Ji Maharaj - RSSB Shabad",
-      "position": 55,
+      "position": 54,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/wqrXNrZnXSg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/wqrXNrZnXSg"
@@ -454,7 +446,7 @@
     {
       "videoId": "5e2o6FQWy8s",
       "title": "Man Re Maan Bachan Ik Mora - Soami Ji Maharaj - RSSB Shabad",
-      "position": 56,
+      "position": 55,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/5e2o6FQWy8s/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/5e2o6FQWy8s"
@@ -462,7 +454,7 @@
     {
       "videoId": "MzF_SMkHiEM",
       "title": "Tum Deepak Main Bhayi Hoon Patanga - Soami Ji Maharaj - RSSB Shabad",
-      "position": 57,
+      "position": 56,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/MzF_SMkHiEM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/MzF_SMkHiEM"
@@ -470,7 +462,7 @@
     {
       "videoId": "oYWTjkR3OMM",
       "title": "Kaal Mat Jag Mein Phaila - Soami Ji Maharaj - RSSB Shabad",
-      "position": 58,
+      "position": 57,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/oYWTjkR3OMM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/oYWTjkR3OMM"
@@ -478,7 +470,7 @@
     {
       "videoId": "LK481JuJF2Q",
       "title": "Kaal Ne Jagat Ajab Bharmaaya - Soami Ji Maharaj - RSSB Shabad",
-      "position": 59,
+      "position": 58,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/LK481JuJF2Q/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/LK481JuJF2Q"
@@ -486,7 +478,7 @@
     {
       "videoId": "ARBtqEW8GWM",
       "title": "Karoon Benati Radha Soami - Soami Ji Maharaj - RSSB Shabad",
-      "position": 60,
+      "position": 59,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/ARBtqEW8GWM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ARBtqEW8GWM"
@@ -494,7 +486,7 @@
     {
       "videoId": "7JYwVbMv1nI",
       "title": "Kar Do Naam Divaana - Soami Ji Maharaj - RSSB Shabad",
-      "position": 61,
+      "position": 60,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/7JYwVbMv1nI/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/7JYwVbMv1nI"
@@ -502,7 +494,7 @@
     {
       "videoId": "yxN5qbexARk",
       "title": "Hansani Chaano Doodh Aur Paani - Soami Ji Maharaj - RSSB Shabad",
-      "position": 62,
+      "position": 61,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/yxN5qbexARk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/yxN5qbexARk"
@@ -510,7 +502,7 @@
     {
       "videoId": "-_YGQCPNxbA",
       "title": "Guru Sang Jaagan Ka Fal Bhaari - Soami Ji Maharaj - RSSB Shabad",
-      "position": 63,
+      "position": 62,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/-_YGQCPNxbA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/-_YGQCPNxbA"
@@ -518,7 +510,7 @@
     {
       "videoId": "t7xYYQufZKE",
       "title": "Guru Mohe Deeje Apna Dhaam - Soami Ji Maharaj - RSSB Shabad",
-      "position": 64,
+      "position": 63,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/t7xYYQufZKE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/t7xYYQufZKE"
@@ -526,7 +518,7 @@
     {
       "videoId": "eKDRa0a8DvM",
       "title": "Guru Ko Oopar Oopar Gaata - Soami Ji Maharaj - RSSB Shabad",
-      "position": 65,
+      "position": 64,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eKDRa0a8DvM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/eKDRa0a8DvM"
@@ -534,7 +526,7 @@
     {
       "videoId": "ZWS5MwB8dj0",
       "title": "Guru Mere Jaan Praan - Soami Ji Maharaj - RSSB Shabad",
-      "position": 66,
+      "position": 65,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/ZWS5MwB8dj0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ZWS5MwB8dj0"
@@ -542,7 +534,7 @@
     {
       "videoId": "YrTRS2NEp4s",
       "title": "Guru Mohe Apna Roop Dikhaao - Soami Ji Maharaj - RSSB Shabad",
-      "position": 67,
+      "position": 66,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/YrTRS2NEp4s/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/YrTRS2NEp4s"
@@ -550,7 +542,7 @@
     {
       "videoId": "8ZIpRKkuLGo",
       "title": "Guru Karo Mehar Ki Drishti - Soami Ji Maharaj - RSSB Shabad",
-      "position": 68,
+      "position": 67,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/8ZIpRKkuLGo/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/8ZIpRKkuLGo"
@@ -558,7 +550,7 @@
     {
       "videoId": "yb46m6SRU0Q",
       "title": "Guru Bin Kabhi Na Utre Paar - Soami Ji Maharaj - RSSB Shabad",
-      "position": 69,
+      "position": 68,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/yb46m6SRU0Q/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/yb46m6SRU0Q"
@@ -566,7 +558,7 @@
     {
       "videoId": "qmoGpyDuhL0",
       "title": "Gur Taarenge Ham Jaani - Soami Ji Maharaj - RSSB Shabad",
-      "position": 70,
+      "position": 69,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/qmoGpyDuhL0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/qmoGpyDuhL0"
@@ -574,7 +566,7 @@
     {
       "videoId": "S1ivPrTPh0M",
       "title": "Gur Mile Jhulaavanhaar Surat Aaj Jhool Rahi - Soami Ji Maharaj - RSSB Shabad",
-      "position": 71,
+      "position": 70,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/S1ivPrTPh0M/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/S1ivPrTPh0M"
@@ -582,7 +574,7 @@
     {
       "videoId": "QyM0t02S7To",
       "title": "Gur Bhakti Drirrh Ke Karo - Soami Ji Maharaj - RSSB Shabad",
-      "position": 72,
+      "position": 71,
       "publishedAt": "2019-03-04T22:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/QyM0t02S7To/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/QyM0t02S7To"
@@ -590,7 +582,7 @@
     {
       "videoId": "OZY6J9maVx4",
       "title": "Bhakt Mahaatam Sun Mere Bhaayi  - Soami Ji Maharaj - RSSB Shabad",
-      "position": 73,
+      "position": 72,
       "publishedAt": "2021-05-04T18:56:34Z",
       "thumbnail": "https://i.ytimg.com/vi/OZY6J9maVx4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OZY6J9maVx4"
@@ -598,7 +590,7 @@
     {
       "videoId": "6kzHbWK6J7E",
       "title": "Guru Ka Dhyaan Kar Pyaare - Soami Ji Maharaj - RSSB Shabad",
-      "position": 74,
+      "position": 73,
       "publishedAt": "2025-04-27T03:12:37Z",
       "thumbnail": "https://i.ytimg.com/vi/6kzHbWK6J7E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/6kzHbWK6J7E"
