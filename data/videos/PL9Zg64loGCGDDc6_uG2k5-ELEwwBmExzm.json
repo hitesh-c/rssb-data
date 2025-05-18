@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-05-18T13:20:49.674Z",
+  "last_updated": "2025-05-18T14:10:45.693Z",
   "playlist_id": "PL9Zg64loGCGDDc6_uG2k5-ELEwwBmExzm",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 7,
+  "videos": [
+    {
+      "videoId": "oOHKKHgbXqo",
+      "title": "Nij Roop Poore Satgur Ka - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 0,
+      "publishedAt": "2020-08-06T13:18:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/oOHKKHgbXqo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oOHKKHgbXqo"
+    },
+    {
+      "videoId": "OdkLqq68CDc",
+      "title": "Satguru Aaye Deeya Jag Hela - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 1,
+      "publishedAt": "2020-08-06T13:31:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/OdkLqq68CDc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OdkLqq68CDc"
+    },
+    {
+      "videoId": "Zp9Doye14-I",
+      "title": "Kaahe Ri Charan Guru Bhooli Ri Suratiya - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 2,
+      "publishedAt": "2025-05-09T16:07:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/Zp9Doye14-I/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Zp9Doye14-I"
+    },
+    {
+      "videoId": "zF5m0rqI3zU",
+      "title": "Baar Baar Karoon Benati Radhasoami Aage - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 3,
+      "publishedAt": "2025-05-09T16:07:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/zF5m0rqI3zU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/zF5m0rqI3zU"
+    },
+    {
+      "videoId": "9NC8YMNItZA",
+      "title": "Guru Pyaare Ke Darshan Karat Rahoon - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 4,
+      "publishedAt": "2025-05-09T16:08:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/9NC8YMNItZA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9NC8YMNItZA"
+    },
+    {
+      "videoId": "Sj5UogQz2Hc",
+      "title": "Mere Pyaare Guru Daataar - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 5,
+      "publishedAt": "2025-05-09T16:08:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/Sj5UogQz2Hc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Sj5UogQz2Hc"
+    },
+    {
+      "videoId": "XQ17oU1h5PQ",
+      "title": "Mere Pyaare Rangeele Satguru - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 6,
+      "publishedAt": "2025-05-09T16:09:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/XQ17oU1h5PQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XQ17oU1h5PQ"
+    }
+  ]
 }
