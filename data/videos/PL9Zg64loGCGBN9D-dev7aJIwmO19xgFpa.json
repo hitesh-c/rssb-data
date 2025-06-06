@@ -1,12 +1,20 @@
 {
-  "last_updated": "2025-06-06T01:03:54.457Z",
+  "last_updated": "2025-06-06T03:11:01.813Z",
   "playlist_id": "PL9Zg64loGCGBN9D-dev7aJIwmO19xgFpa",
-  "total_videos": 141,
+  "total_videos": 142,
   "videos": [
+    {
+      "videoId": "i3G4fcZx2tA",
+      "title": "Q & A with GSD 140 with CC",
+      "position": 0,
+      "publishedAt": "2025-06-06T03:05:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/i3G4fcZx2tA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/i3G4fcZx2tA"
+    },
     {
       "videoId": "_dmB8A6boq4",
       "title": "Q & A with GSD 139 with CC",
-      "position": 0,
+      "position": 1,
       "publishedAt": "2025-05-01T18:19:50Z",
       "thumbnail": "https://i.ytimg.com/vi/_dmB8A6boq4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/_dmB8A6boq4"
@@ -14,7 +22,7 @@
     {
       "videoId": "nPk0_KzdMhw",
       "title": "Q & A with GSD 138 with CC",
-      "position": 1,
+      "position": 2,
       "publishedAt": "2025-04-03T18:43:42Z",
       "thumbnail": "https://i.ytimg.com/vi/nPk0_KzdMhw/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/nPk0_KzdMhw"
@@ -22,7 +30,7 @@
     {
       "videoId": "lIcqZDeJ1Nk",
       "title": "Q & A with GSD 137 with CC",
-      "position": 2,
+      "position": 3,
       "publishedAt": "2025-03-06T19:03:51Z",
       "thumbnail": "https://i.ytimg.com/vi/lIcqZDeJ1Nk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/lIcqZDeJ1Nk"
@@ -30,7 +38,7 @@
     {
       "videoId": "OSVVulNCx_4",
       "title": "Q & A with GSD 136 with CC",
-      "position": 3,
+      "position": 4,
       "publishedAt": "2025-02-06T19:02:11Z",
       "thumbnail": "https://i.ytimg.com/vi/OSVVulNCx_4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OSVVulNCx_4"
@@ -38,7 +46,7 @@
     {
       "videoId": "ctQ74fEfMv8",
       "title": "Q & A with GSD 135 with CC",
-      "position": 4,
+      "position": 5,
       "publishedAt": "2025-01-02T22:34:52Z",
       "thumbnail": "https://i.ytimg.com/vi/ctQ74fEfMv8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ctQ74fEfMv8"
@@ -46,7 +54,7 @@
     {
       "videoId": "_N8sPhyxnY4",
       "title": "Q & A with GSD 134 with CC",
-      "position": 5,
+      "position": 6,
       "publishedAt": "2024-12-05T17:10:13Z",
       "thumbnail": "https://i.ytimg.com/vi/_N8sPhyxnY4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/_N8sPhyxnY4"
@@ -54,7 +62,7 @@
     {
       "videoId": "X97VB3gko-s",
       "title": "Q & A with GSD 133 with CC",
-      "position": 6,
+      "position": 7,
       "publishedAt": "2024-10-31T17:38:40Z",
       "thumbnail": "https://i.ytimg.com/vi/X97VB3gko-s/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/X97VB3gko-s"
@@ -62,7 +70,7 @@
     {
       "videoId": "PRdLXSkBmag",
       "title": "Q & A with GSD 132 with CC",
-      "position": 7,
+      "position": 8,
       "publishedAt": "2024-10-03T17:31:46Z",
       "thumbnail": "https://i.ytimg.com/vi/PRdLXSkBmag/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/PRdLXSkBmag"
@@ -70,7 +78,7 @@
     {
       "videoId": "hJN24dF5z9A",
       "title": "Q & A with GSD 131 with CC",
-      "position": 8,
+      "position": 9,
       "publishedAt": "2024-09-05T18:08:15Z",
       "thumbnail": "https://i.ytimg.com/vi/hJN24dF5z9A/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/hJN24dF5z9A"
@@ -78,7 +86,7 @@
     {
       "videoId": "WZWIh4R-sM4",
       "title": "Q & A with GSD 130 with CC",
-      "position": 9,
+      "position": 10,
       "publishedAt": "2024-08-01T18:05:35Z",
       "thumbnail": "https://i.ytimg.com/vi/WZWIh4R-sM4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/WZWIh4R-sM4"
@@ -86,7 +94,7 @@
     {
       "videoId": "5WQ_qKmANFo",
       "title": "Q & A with GSD 129 with CC",
-      "position": 10,
+      "position": 11,
       "publishedAt": "2024-07-04T17:26:45Z",
       "thumbnail": "https://i.ytimg.com/vi/5WQ_qKmANFo/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/5WQ_qKmANFo"
@@ -94,7 +102,7 @@
     {
       "videoId": "QYnNYYay4ts",
       "title": "Q & A with GSD 128 with CC",
-      "position": 11,
+      "position": 12,
       "publishedAt": "2024-06-06T16:51:40Z",
       "thumbnail": "https://i.ytimg.com/vi/QYnNYYay4ts/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/QYnNYYay4ts"
@@ -102,7 +110,7 @@
     {
       "videoId": "FqqNiqincU0",
       "title": "Q & A with GSD 127 with CC",
-      "position": 12,
+      "position": 13,
       "publishedAt": "2024-05-02T17:24:15Z",
       "thumbnail": "https://i.ytimg.com/vi/FqqNiqincU0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/FqqNiqincU0"
@@ -110,7 +118,7 @@
     {
       "videoId": "nzZMA7-cKgQ",
       "title": "Q & A with GSD 126 with CC",
-      "position": 13,
+      "position": 14,
       "publishedAt": "2024-04-04T17:49:22Z",
       "thumbnail": "https://i.ytimg.com/vi/nzZMA7-cKgQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/nzZMA7-cKgQ"
@@ -118,7 +126,7 @@
     {
       "videoId": "GAW0J2Sb86E",
       "title": "Q & A with GSD 125 with CC",
-      "position": 14,
+      "position": 15,
       "publishedAt": "2024-02-29T18:14:56Z",
       "thumbnail": "https://i.ytimg.com/vi/GAW0J2Sb86E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/GAW0J2Sb86E"
@@ -126,7 +134,7 @@
     {
       "videoId": "toY82QnEPXA",
       "title": "Q & A with GSD 124 with CC",
-      "position": 15,
+      "position": 16,
       "publishedAt": "2024-02-01T18:10:14Z",
       "thumbnail": "https://i.ytimg.com/vi/toY82QnEPXA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/toY82QnEPXA"
@@ -134,7 +142,7 @@
     {
       "videoId": "eDDqUBbFus8",
       "title": "Q & A with GSD 123 with CC",
-      "position": 16,
+      "position": 17,
       "publishedAt": "2024-01-04T19:16:39Z",
       "thumbnail": "https://i.ytimg.com/vi/eDDqUBbFus8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/eDDqUBbFus8"
@@ -142,7 +150,7 @@
     {
       "videoId": "wpcGTD-bbO8",
       "title": "Q & A with GSD 122 with CC",
-      "position": 17,
+      "position": 18,
       "publishedAt": "2023-11-30T19:36:47Z",
       "thumbnail": "https://i.ytimg.com/vi/wpcGTD-bbO8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/wpcGTD-bbO8"
@@ -150,7 +158,7 @@
     {
       "videoId": "cUC8DLJYPIU",
       "title": "Q & A with GSD 121 with CC",
-      "position": 18,
+      "position": 19,
       "publishedAt": "2023-11-02T14:47:24Z",
       "thumbnail": "https://i.ytimg.com/vi/cUC8DLJYPIU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/cUC8DLJYPIU"
@@ -158,7 +166,7 @@
     {
       "videoId": "iDK1mu7vBHA",
       "title": "Q & A with GSD 120 with CC",
-      "position": 19,
+      "position": 20,
       "publishedAt": "2023-10-05T15:03:40Z",
       "thumbnail": "https://i.ytimg.com/vi/iDK1mu7vBHA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/iDK1mu7vBHA"
@@ -166,7 +174,7 @@
     {
       "videoId": "8sBMqkB__Ck",
       "title": "Q & A with GSD 119 with CC",
-      "position": 20,
+      "position": 21,
       "publishedAt": "2023-08-31T15:26:57Z",
       "thumbnail": "https://i.ytimg.com/vi/8sBMqkB__Ck/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/8sBMqkB__Ck"
@@ -174,7 +182,7 @@
     {
       "videoId": "mJhpROwe6z0",
       "title": "Q & A with GSD 118 with CC",
-      "position": 21,
+      "position": 22,
       "publishedAt": "2023-08-03T18:34:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mJhpROwe6z0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/mJhpROwe6z0"
@@ -182,7 +190,7 @@
     {
       "videoId": "j7pGDvIIqUk",
       "title": "Q & A with GSD 117 with CC",
-      "position": 22,
+      "position": 23,
       "publishedAt": "2023-07-06T21:17:25Z",
       "thumbnail": "https://i.ytimg.com/vi/j7pGDvIIqUk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/j7pGDvIIqUk"
@@ -190,7 +198,7 @@
     {
       "videoId": "DKTt7OiuNzg",
       "title": "Q & A with GSD 116 with CC",
-      "position": 23,
+      "position": 24,
       "publishedAt": "2023-06-09T15:26:43Z",
       "thumbnail": "https://i.ytimg.com/vi/DKTt7OiuNzg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/DKTt7OiuNzg"
@@ -198,7 +206,7 @@
     {
       "videoId": "ct2rEKonJ8k",
       "title": "Q & A with GSD 115 with CC",
-      "position": 24,
+      "position": 25,
       "publishedAt": "2023-05-10T18:53:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ct2rEKonJ8k/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ct2rEKonJ8k"
@@ -206,7 +214,7 @@
     {
       "videoId": "BVVIDKghSdg",
       "title": "Q & A with GSD 114 with CC",
-      "position": 25,
+      "position": 26,
       "publishedAt": "2023-04-12T14:25:32Z",
       "thumbnail": "https://i.ytimg.com/vi/BVVIDKghSdg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/BVVIDKghSdg"
@@ -214,7 +222,7 @@
     {
       "videoId": "knNElX5bvv4",
       "title": "Q & A with GSD 113 with CC",
-      "position": 26,
+      "position": 27,
       "publishedAt": "2023-03-09T11:48:23Z",
       "thumbnail": "https://i.ytimg.com/vi/knNElX5bvv4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/knNElX5bvv4"
@@ -222,7 +230,7 @@
     {
       "videoId": "NgOCY-uEHr4",
       "title": "Q & A with GSD 112 with CC",
-      "position": 27,
+      "position": 28,
       "publishedAt": "2023-02-05T02:44:48Z",
       "thumbnail": "https://i.ytimg.com/vi/NgOCY-uEHr4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/NgOCY-uEHr4"
@@ -230,7 +238,7 @@
     {
       "videoId": "tqursiwnFDs",
       "title": "Q & A with GSD 111 with CC",
-      "position": 28,
+      "position": 29,
       "publishedAt": "2023-01-09T01:39:29Z",
       "thumbnail": "https://i.ytimg.com/vi/tqursiwnFDs/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/tqursiwnFDs"
@@ -238,7 +246,7 @@
     {
       "videoId": "nyaBgQ2PkvU",
       "title": "Q & A with GSD 110 with CC",
-      "position": 29,
+      "position": 30,
       "publishedAt": "2022-12-07T06:50:04Z",
       "thumbnail": "https://i.ytimg.com/vi/nyaBgQ2PkvU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/nyaBgQ2PkvU"
@@ -246,7 +254,7 @@
     {
       "videoId": "vC9IPsHbulY",
       "title": "Q & A with GSD 109 with CC",
-      "position": 30,
+      "position": 31,
       "publishedAt": "2022-11-09T15:19:31Z",
       "thumbnail": "https://i.ytimg.com/vi/vC9IPsHbulY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/vC9IPsHbulY"
@@ -254,7 +262,7 @@
     {
       "videoId": "QOnMfAgUsJE",
       "title": "Q & A with GSD 108 with CC",
-      "position": 31,
+      "position": 32,
       "publishedAt": "2022-10-10T10:45:25Z",
       "thumbnail": "https://i.ytimg.com/vi/QOnMfAgUsJE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/QOnMfAgUsJE"
@@ -262,7 +270,7 @@
     {
       "videoId": "zO-_ublVbas",
       "title": "Q & A with GSD 107 with CC",
-      "position": 32,
+      "position": 33,
       "publishedAt": "2022-09-06T01:39:31Z",
       "thumbnail": "https://i.ytimg.com/vi/zO-_ublVbas/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/zO-_ublVbas"
@@ -270,7 +278,7 @@
     {
       "videoId": "dCbIozV7a9Q",
       "title": "Q & A with GSD 106 with CC",
-      "position": 33,
+      "position": 34,
       "publishedAt": "2022-08-10T09:57:24Z",
       "thumbnail": "https://i.ytimg.com/vi/dCbIozV7a9Q/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/dCbIozV7a9Q"
@@ -278,7 +286,7 @@
     {
       "videoId": "IEFvaRlDPxE",
       "title": "Q & A with GSD 105 with CC",
-      "position": 34,
+      "position": 35,
       "publishedAt": "2022-07-09T14:22:17Z",
       "thumbnail": "https://i.ytimg.com/vi/IEFvaRlDPxE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/IEFvaRlDPxE"
@@ -286,7 +294,7 @@
     {
       "videoId": "HZ0gpvhjgx8",
       "title": "Q & A with GSD 104 with CC",
-      "position": 35,
+      "position": 36,
       "publishedAt": "2022-06-09T02:51:39Z",
       "thumbnail": "https://i.ytimg.com/vi/HZ0gpvhjgx8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/HZ0gpvhjgx8"
@@ -294,7 +302,7 @@
     {
       "videoId": "HKJvb7k3_mI",
       "title": "Q & A with GSD 103 with CC",
-      "position": 36,
+      "position": 37,
       "publishedAt": "2022-05-16T02:39:45Z",
       "thumbnail": "https://i.ytimg.com/vi/HKJvb7k3_mI/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/HKJvb7k3_mI"
@@ -302,7 +310,7 @@
     {
       "videoId": "ESZ7spxs_jE",
       "title": "Q & A with GSD - What is Shabd? with CC",
-      "position": 37,
+      "position": 38,
       "publishedAt": "2022-05-12T17:17:58Z",
       "thumbnail": "https://i.ytimg.com/vi/ESZ7spxs_jE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ESZ7spxs_jE"
@@ -310,7 +318,7 @@
     {
       "videoId": "4iqa_JYUlH8",
       "title": "Q & A with GSD 102 with CC",
-      "position": 38,
+      "position": 39,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/4iqa_JYUlH8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/4iqa_JYUlH8"
@@ -318,7 +326,7 @@
     {
       "videoId": "Ai-DRO8Clds",
       "title": "Q & A with GSD - Who is a Guru? with CC",
-      "position": 39,
+      "position": 40,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/Ai-DRO8Clds/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Ai-DRO8Clds"
@@ -326,7 +334,7 @@
     {
       "videoId": "2MIjyx-NUUM",
       "title": "Q & A with GSD 101 with CC",
-      "position": 40,
+      "position": 41,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/2MIjyx-NUUM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/2MIjyx-NUUM"
@@ -334,7 +342,7 @@
     {
       "videoId": "6Up0t55Ng1c",
       "title": "Q & A with GSD 100 with CC",
-      "position": 41,
+      "position": 42,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/6Up0t55Ng1c/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/6Up0t55Ng1c"
@@ -342,7 +350,7 @@
     {
       "videoId": "0EBWUbxEGP0",
       "title": "Q & A with GSD 099 with CC",
-      "position": 42,
+      "position": 43,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/0EBWUbxEGP0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/0EBWUbxEGP0"
@@ -350,7 +358,7 @@
     {
       "videoId": "82IRA4YGaXY",
       "title": "Q & A with GSD 098 with CC",
-      "position": 43,
+      "position": 44,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/82IRA4YGaXY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/82IRA4YGaXY"
@@ -358,7 +366,7 @@
     {
       "videoId": "WGkMNPOC5I4",
       "title": "Q & A with GSD 097 with CC",
-      "position": 44,
+      "position": 45,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/WGkMNPOC5I4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/WGkMNPOC5I4"
@@ -366,7 +374,7 @@
     {
       "videoId": "OmkAjcpLg_c",
       "title": "Q & A with GSD 096 with CC",
-      "position": 45,
+      "position": 46,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/OmkAjcpLg_c/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OmkAjcpLg_c"
@@ -374,7 +382,7 @@
     {
       "videoId": "l8xR__L_cfQ",
       "title": "Q & A with GSD 095 with CC",
-      "position": 46,
+      "position": 47,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/l8xR__L_cfQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/l8xR__L_cfQ"
@@ -382,7 +390,7 @@
     {
       "videoId": "D0XM5uOsRSs",
       "title": "Q & A with GSD 094 with CC",
-      "position": 47,
+      "position": 48,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/D0XM5uOsRSs/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/D0XM5uOsRSs"
@@ -390,7 +398,7 @@
     {
       "videoId": "LIMZxw9_wV0",
       "title": "Q & A with GSD 093 with CC",
-      "position": 48,
+      "position": 49,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/LIMZxw9_wV0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/LIMZxw9_wV0"
@@ -398,7 +406,7 @@
     {
       "videoId": "vbCgToHicI4",
       "title": "Q & A with GSD 092 with CC",
-      "position": 49,
+      "position": 50,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/vbCgToHicI4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/vbCgToHicI4"
@@ -406,7 +414,7 @@
     {
       "videoId": "vJa6hni6594",
       "title": "Q & A with GSD 091 with CC",
-      "position": 50,
+      "position": 51,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/vJa6hni6594/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/vJa6hni6594"
@@ -414,7 +422,7 @@
     {
       "videoId": "chKDHmvOVGA",
       "title": "Q & A with GSD 090 with CC",
-      "position": 51,
+      "position": 52,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/chKDHmvOVGA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/chKDHmvOVGA"
@@ -422,7 +430,7 @@
     {
       "videoId": "hnk-LWXqFSE",
       "title": "Q & A with GSD 089 with CC",
-      "position": 52,
+      "position": 53,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/hnk-LWXqFSE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/hnk-LWXqFSE"
@@ -430,7 +438,7 @@
     {
       "videoId": "39RL70qk5vk",
       "title": "Q & A with GSD 088 with CC",
-      "position": 53,
+      "position": 54,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/39RL70qk5vk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/39RL70qk5vk"
@@ -438,7 +446,7 @@
     {
       "videoId": "kwt3Xstnul8",
       "title": "Q & A with GSD 087 with CC",
-      "position": 54,
+      "position": 55,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/kwt3Xstnul8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/kwt3Xstnul8"
@@ -446,7 +454,7 @@
     {
       "videoId": "Fm4Gjcw9yds",
       "title": "Q & A with GSD 086 with CC",
-      "position": 55,
+      "position": 56,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/Fm4Gjcw9yds/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Fm4Gjcw9yds"
@@ -454,7 +462,7 @@
     {
       "videoId": "TPMHMg8gejg",
       "title": "Q & A with GSD 085 with CC",
-      "position": 56,
+      "position": 57,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/TPMHMg8gejg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/TPMHMg8gejg"
@@ -462,7 +470,7 @@
     {
       "videoId": "AtzYccoM0jc",
       "title": "Q & A with GSD 084 with CC",
-      "position": 57,
+      "position": 58,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/AtzYccoM0jc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/AtzYccoM0jc"
@@ -470,7 +478,7 @@
     {
       "videoId": "QX6y6Mrmp00",
       "title": "Q & A with GSD 083 with CC",
-      "position": 58,
+      "position": 59,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/QX6y6Mrmp00/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/QX6y6Mrmp00"
@@ -478,7 +486,7 @@
     {
       "videoId": "d-mR0oX29kQ",
       "title": "Q & A with GSD 082 with CC",
-      "position": 59,
+      "position": 60,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/d-mR0oX29kQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/d-mR0oX29kQ"
@@ -486,7 +494,7 @@
     {
       "videoId": "OB74VzvsOJA",
       "title": "Q & A with GSD 081 with CC",
-      "position": 60,
+      "position": 61,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/OB74VzvsOJA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OB74VzvsOJA"
@@ -494,7 +502,7 @@
     {
       "videoId": "fMPobCf9x98",
       "title": "Q & A with GSD 080 with CC",
-      "position": 61,
+      "position": 62,
       "publishedAt": "2022-05-11T15:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/fMPobCf9x98/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/fMPobCf9x98"
@@ -502,7 +510,7 @@
     {
       "videoId": "msKQsOPL3DQ",
       "title": "Q & A with GSD 079 with CC",
-      "position": 62,
+      "position": 63,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/msKQsOPL3DQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/msKQsOPL3DQ"
@@ -510,7 +518,7 @@
     {
       "videoId": "1NCGX69T0Ts",
       "title": "Q & A with GSD 078 with CC",
-      "position": 63,
+      "position": 64,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/1NCGX69T0Ts/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/1NCGX69T0Ts"
@@ -518,7 +526,7 @@
     {
       "videoId": "OqomBDHywvQ",
       "title": "Q & A with GSD 077 with CC",
-      "position": 64,
+      "position": 65,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/OqomBDHywvQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/OqomBDHywvQ"
@@ -526,7 +534,7 @@
     {
       "videoId": "9JjLEhqdcjE",
       "title": "Q & A with GSD 076 with CC",
-      "position": 65,
+      "position": 66,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/9JjLEhqdcjE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/9JjLEhqdcjE"
@@ -534,7 +542,7 @@
     {
       "videoId": "XGqKEDuwpmY",
       "title": "Q & A with GSD 075 with CC",
-      "position": 66,
+      "position": 67,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/XGqKEDuwpmY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/XGqKEDuwpmY"
@@ -542,7 +550,7 @@
     {
       "videoId": "kHKMcoHuE4E",
       "title": "Q & A with GSD 074 with CC",
-      "position": 67,
+      "position": 68,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/kHKMcoHuE4E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/kHKMcoHuE4E"
@@ -550,7 +558,7 @@
     {
       "videoId": "cNaE0M6Q0N0",
       "title": "Q & A with GSD 073 with CC",
-      "position": 68,
+      "position": 69,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/cNaE0M6Q0N0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/cNaE0M6Q0N0"
@@ -558,7 +566,7 @@
     {
       "videoId": "rXqVaWEY3mA",
       "title": "Q & A with GSD 072 with CC",
-      "position": 69,
+      "position": 70,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/rXqVaWEY3mA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/rXqVaWEY3mA"
@@ -566,7 +574,7 @@
     {
       "videoId": "I4PklQUyGgg",
       "title": "Q & A with GSD 071 with CC",
-      "position": 70,
+      "position": 71,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/I4PklQUyGgg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/I4PklQUyGgg"
@@ -574,7 +582,7 @@
     {
       "videoId": "sh358WxX8oE",
       "title": "Q & A with GSD 070 with CC",
-      "position": 71,
+      "position": 72,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/sh358WxX8oE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/sh358WxX8oE"
@@ -582,7 +590,7 @@
     {
       "videoId": "sR9_OXMRrPQ",
       "title": "Q & A with GSD 069 with CC",
-      "position": 72,
+      "position": 73,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/sR9_OXMRrPQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/sR9_OXMRrPQ"
@@ -590,7 +598,7 @@
     {
       "videoId": "t-vAqirqhvg",
       "title": "Q & A with GSD 068 with CC",
-      "position": 73,
+      "position": 74,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/t-vAqirqhvg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/t-vAqirqhvg"
@@ -598,7 +606,7 @@
     {
       "videoId": "izKTlSD8PSU",
       "title": "Q & A with GSD 067 with CC",
-      "position": 74,
+      "position": 75,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/izKTlSD8PSU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/izKTlSD8PSU"
@@ -606,7 +614,7 @@
     {
       "videoId": "cRyk0Zqhzmc",
       "title": "Q & A with GSD 066 with CC",
-      "position": 75,
+      "position": 76,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/cRyk0Zqhzmc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/cRyk0Zqhzmc"
@@ -614,7 +622,7 @@
     {
       "videoId": "0Sm_a7iyND4",
       "title": "Q & A with GSD 065 with CC",
-      "position": 76,
+      "position": 77,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/0Sm_a7iyND4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/0Sm_a7iyND4"
@@ -622,7 +630,7 @@
     {
       "videoId": "dXHs-DQxZxg",
       "title": "Q & A with GSD 064 with CC",
-      "position": 77,
+      "position": 78,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/dXHs-DQxZxg/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/dXHs-DQxZxg"
@@ -630,7 +638,7 @@
     {
       "videoId": "ZwmwkGj579E",
       "title": "Q & A with GSD 063 with CC",
-      "position": 78,
+      "position": 79,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/ZwmwkGj579E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ZwmwkGj579E"
@@ -638,7 +646,7 @@
     {
       "videoId": "uk4fU1QuQIY",
       "title": "Q & A with GSD 062 with CC",
-      "position": 79,
+      "position": 80,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/uk4fU1QuQIY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/uk4fU1QuQIY"
@@ -646,7 +654,7 @@
     {
       "videoId": "Fxh2PoL8hU0",
       "title": "Q & A with GSD 061 with CC",
-      "position": 80,
+      "position": 81,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/Fxh2PoL8hU0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Fxh2PoL8hU0"
@@ -654,7 +662,7 @@
     {
       "videoId": "uRJM2zRiUS0",
       "title": "Q & A with GSD 060 with CC",
-      "position": 81,
+      "position": 82,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/uRJM2zRiUS0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/uRJM2zRiUS0"
@@ -662,7 +670,7 @@
     {
       "videoId": "8qY80v-ZrTk",
       "title": "Q & A with GSD 059 with CC",
-      "position": 82,
+      "position": 83,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/8qY80v-ZrTk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/8qY80v-ZrTk"
@@ -670,7 +678,7 @@
     {
       "videoId": "iiVfOw3YyAc",
       "title": "Q & A with GSD 058 with CC",
-      "position": 83,
+      "position": 84,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/iiVfOw3YyAc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/iiVfOw3YyAc"
@@ -678,7 +686,7 @@
     {
       "videoId": "gD1fDVZ4FGc",
       "title": "Q & A with GSD 057 with CC",
-      "position": 84,
+      "position": 85,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/gD1fDVZ4FGc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/gD1fDVZ4FGc"
@@ -686,7 +694,7 @@
     {
       "videoId": "gtzQ24-sX8s",
       "title": "Q & A with GSD 056 with CC",
-      "position": 85,
+      "position": 86,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/gtzQ24-sX8s/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/gtzQ24-sX8s"
@@ -694,7 +702,7 @@
     {
       "videoId": "0tJPK9AFN5E",
       "title": "Q & A with GSD 055 with CC",
-      "position": 86,
+      "position": 87,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/0tJPK9AFN5E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/0tJPK9AFN5E"
@@ -702,7 +710,7 @@
     {
       "videoId": "KlrDhZA9kGk",
       "title": "Q & A with GSD 054 with CC",
-      "position": 87,
+      "position": 88,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/KlrDhZA9kGk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/KlrDhZA9kGk"
@@ -710,7 +718,7 @@
     {
       "videoId": "Yuxozkw-qvY",
       "title": "Q & A with GSD 053 with CC",
-      "position": 88,
+      "position": 89,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/Yuxozkw-qvY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Yuxozkw-qvY"
@@ -718,7 +726,7 @@
     {
       "videoId": "UURjXMiN60M",
       "title": "Q & A with GSD 052 with CC",
-      "position": 89,
+      "position": 90,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/UURjXMiN60M/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/UURjXMiN60M"
@@ -726,7 +734,7 @@
     {
       "videoId": "Uo5QvPRLLw0",
       "title": "Q & A with GSD 051 with CC",
-      "position": 90,
+      "position": 91,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/Uo5QvPRLLw0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Uo5QvPRLLw0"
@@ -734,7 +742,7 @@
     {
       "videoId": "XaHWfebobOA",
       "title": "Q & A with GSD 050 with CC",
-      "position": 91,
+      "position": 92,
       "publishedAt": "2022-05-11T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/XaHWfebobOA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/XaHWfebobOA"
@@ -742,7 +750,7 @@
     {
       "videoId": "gYSL-PjAa3M",
       "title": "Q & A with GSD 049 with CC",
-      "position": 92,
+      "position": 93,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/gYSL-PjAa3M/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/gYSL-PjAa3M"
@@ -750,7 +758,7 @@
     {
       "videoId": "qzhX0za45jc",
       "title": "Q & A with GSD 048 with CC",
-      "position": 93,
+      "position": 94,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/qzhX0za45jc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/qzhX0za45jc"
@@ -758,7 +766,7 @@
     {
       "videoId": "7sFf5Zp6cv0",
       "title": "Q & A with GSD 047 with CC",
-      "position": 94,
+      "position": 95,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/7sFf5Zp6cv0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/7sFf5Zp6cv0"
@@ -766,7 +774,7 @@
     {
       "videoId": "JvUAwEhVTf8",
       "title": "Q & A with GSD 046 with CC",
-      "position": 95,
+      "position": 96,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/JvUAwEhVTf8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/JvUAwEhVTf8"
@@ -774,7 +782,7 @@
     {
       "videoId": "KMcxtAj3LKs",
       "title": "Q & A with GSD 045 with CC",
-      "position": 96,
+      "position": 97,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/KMcxtAj3LKs/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/KMcxtAj3LKs"
@@ -782,7 +790,7 @@
     {
       "videoId": "Jhq-RLgaOvU",
       "title": "Q & A with GSD 044 with CC",
-      "position": 97,
+      "position": 98,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/Jhq-RLgaOvU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Jhq-RLgaOvU"
@@ -790,7 +798,7 @@
     {
       "videoId": "UI76QtrC5Ew",
       "title": "Q & A with GSD 043 with CC",
-      "position": 98,
+      "position": 99,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/UI76QtrC5Ew/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/UI76QtrC5Ew"
@@ -798,7 +806,7 @@
     {
       "videoId": "Mx7aQKkobxA",
       "title": "Q & A with GSD 042 with CC",
-      "position": 99,
+      "position": 100,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/Mx7aQKkobxA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Mx7aQKkobxA"
@@ -806,7 +814,7 @@
     {
       "videoId": "d_4zFrZcWJE",
       "title": "Q & A with GSD 041 with CC",
-      "position": 100,
+      "position": 101,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/d_4zFrZcWJE/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/d_4zFrZcWJE"
@@ -814,7 +822,7 @@
     {
       "videoId": "RXsbALAKMSM",
       "title": "Q & A with GSD 040 with CC",
-      "position": 101,
+      "position": 102,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/RXsbALAKMSM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/RXsbALAKMSM"
@@ -822,7 +830,7 @@
     {
       "videoId": "PFbmoBdHpZY",
       "title": "Q & A with GSD 039 with CC",
-      "position": 102,
+      "position": 103,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/PFbmoBdHpZY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/PFbmoBdHpZY"
@@ -830,7 +838,7 @@
     {
       "videoId": "BEXM7LXTo5s",
       "title": "Q & A with GSD 038 with CC",
-      "position": 103,
+      "position": 104,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/BEXM7LXTo5s/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/BEXM7LXTo5s"
@@ -838,7 +846,7 @@
     {
       "videoId": "ezxy8f2nSG0",
       "title": "Q & A with GSD 037 with CC",
-      "position": 104,
+      "position": 105,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/ezxy8f2nSG0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ezxy8f2nSG0"
@@ -846,7 +854,7 @@
     {
       "videoId": "8lwhx1kTleM",
       "title": "Q & A with GSD 036 with CC",
-      "position": 105,
+      "position": 106,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/8lwhx1kTleM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/8lwhx1kTleM"
@@ -854,7 +862,7 @@
     {
       "videoId": "STw2cFg9oFo",
       "title": "Q & A with GSD 035 with CC",
-      "position": 106,
+      "position": 107,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/STw2cFg9oFo/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/STw2cFg9oFo"
@@ -862,7 +870,7 @@
     {
       "videoId": "MTZ3-G0DfrQ",
       "title": "Q & A with GSD 034 with CC",
-      "position": 107,
+      "position": 108,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/MTZ3-G0DfrQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/MTZ3-G0DfrQ"
@@ -870,7 +878,7 @@
     {
       "videoId": "-B11B_ulHTc",
       "title": "Q & A with GSD 033 with CC",
-      "position": 108,
+      "position": 109,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/-B11B_ulHTc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/-B11B_ulHTc"
@@ -878,7 +886,7 @@
     {
       "videoId": "hRFVPFzV4mM",
       "title": "Q & A with GSD 032 with CC",
-      "position": 109,
+      "position": 110,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/hRFVPFzV4mM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/hRFVPFzV4mM"
@@ -886,7 +894,7 @@
     {
       "videoId": "_m54G7DHVYk",
       "title": "Q & A with GSD 031 with CC",
-      "position": 110,
+      "position": 111,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/_m54G7DHVYk/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/_m54G7DHVYk"
@@ -894,7 +902,7 @@
     {
       "videoId": "L_qQ8A37pIo",
       "title": "Q & A with GSD 030 with CC",
-      "position": 111,
+      "position": 112,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/L_qQ8A37pIo/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/L_qQ8A37pIo"
@@ -902,7 +910,7 @@
     {
       "videoId": "w6mb4otOl48",
       "title": "Q & A with GSD 029 with CC",
-      "position": 112,
+      "position": 113,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/w6mb4otOl48/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/w6mb4otOl48"
@@ -910,7 +918,7 @@
     {
       "videoId": "H8eQkUJd14U",
       "title": "Q & A with GSD 028 with CC",
-      "position": 113,
+      "position": 114,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/H8eQkUJd14U/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/H8eQkUJd14U"
@@ -918,7 +926,7 @@
     {
       "videoId": "5VQRIybTMls",
       "title": "Q & A with GSD 027 with CC",
-      "position": 114,
+      "position": 115,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/5VQRIybTMls/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/5VQRIybTMls"
@@ -926,7 +934,7 @@
     {
       "videoId": "aUm4_COV6yQ",
       "title": "Q & A with GSD 026 with CC",
-      "position": 115,
+      "position": 116,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/aUm4_COV6yQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/aUm4_COV6yQ"
@@ -934,7 +942,7 @@
     {
       "videoId": "8lL9VLn8WkI",
       "title": "Q & A with GSD 025 with CC",
-      "position": 116,
+      "position": 117,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/8lL9VLn8WkI/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/8lL9VLn8WkI"
@@ -942,7 +950,7 @@
     {
       "videoId": "o_qJM8pg-d4",
       "title": "Q & A with GSD 024 with CC",
-      "position": 117,
+      "position": 118,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/o_qJM8pg-d4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/o_qJM8pg-d4"
@@ -950,7 +958,7 @@
     {
       "videoId": "1J4zkTBignQ",
       "title": "Q & A with GSD 023 with CC",
-      "position": 118,
+      "position": 119,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/1J4zkTBignQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/1J4zkTBignQ"
@@ -958,7 +966,7 @@
     {
       "videoId": "WFIsvcEqidA",
       "title": "Q & A with GSD 022 with CC",
-      "position": 119,
+      "position": 120,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/WFIsvcEqidA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/WFIsvcEqidA"
@@ -966,7 +974,7 @@
     {
       "videoId": "d-K5EsSLoFU",
       "title": "Q & A with GSD 021 with CC",
-      "position": 120,
+      "position": 121,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/d-K5EsSLoFU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/d-K5EsSLoFU"
@@ -974,7 +982,7 @@
     {
       "videoId": "yvLUFP1aw-w",
       "title": "Q & A with GSD 020 with CC",
-      "position": 121,
+      "position": 122,
       "publishedAt": "2022-05-11T16:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/yvLUFP1aw-w/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/yvLUFP1aw-w"
@@ -982,7 +990,7 @@
     {
       "videoId": "Qhnbkxz8NL4",
       "title": "Q & A with GSD 019 with CC",
-      "position": 122,
+      "position": 123,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Qhnbkxz8NL4/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Qhnbkxz8NL4"
@@ -990,7 +998,7 @@
     {
       "videoId": "PD_ANl45gWQ",
       "title": "Q & A with GSD 018 with CC",
-      "position": 123,
+      "position": 124,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/PD_ANl45gWQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/PD_ANl45gWQ"
@@ -998,7 +1006,7 @@
     {
       "videoId": "BlVl4Wj5q5Y",
       "title": "Q & A with GSD 017 with CC",
-      "position": 124,
+      "position": 125,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/BlVl4Wj5q5Y/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/BlVl4Wj5q5Y"
@@ -1006,7 +1014,7 @@
     {
       "videoId": "VKcgDsyAIvA",
       "title": "Q & A with GSD 016 with CC",
-      "position": 125,
+      "position": 126,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/VKcgDsyAIvA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/VKcgDsyAIvA"
@@ -1014,7 +1022,7 @@
     {
       "videoId": "hyACSwjCQ8w",
       "title": "Q & A with GSD 015 with CC",
-      "position": 126,
+      "position": 127,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/hyACSwjCQ8w/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/hyACSwjCQ8w"
@@ -1022,7 +1030,7 @@
     {
       "videoId": "HXfrfYFOuD0",
       "title": "Q & A with GSD 014 with CC",
-      "position": 127,
+      "position": 128,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/HXfrfYFOuD0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/HXfrfYFOuD0"
@@ -1030,7 +1038,7 @@
     {
       "videoId": "6QsYobWsjZ8",
       "title": "Q & A with GSD 013 with CC",
-      "position": 128,
+      "position": 129,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/6QsYobWsjZ8/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/6QsYobWsjZ8"
@@ -1038,7 +1046,7 @@
     {
       "videoId": "vFpITZJvWrw",
       "title": "Q & A with GSD 012 with CC",
-      "position": 129,
+      "position": 130,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/vFpITZJvWrw/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/vFpITZJvWrw"
@@ -1046,7 +1054,7 @@
     {
       "videoId": "GD9kaZnzvpM",
       "title": "Q & A with GSD 011 with CC",
-      "position": 130,
+      "position": 131,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/GD9kaZnzvpM/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/GD9kaZnzvpM"
@@ -1054,7 +1062,7 @@
     {
       "videoId": "V-r9m5YnrjU",
       "title": "Q & A with GSD 010 with CC",
-      "position": 131,
+      "position": 132,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/V-r9m5YnrjU/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/V-r9m5YnrjU"
@@ -1062,7 +1070,7 @@
     {
       "videoId": "ojbbTu1fkNY",
       "title": "Q & A with GSD 009 with CC",
-      "position": 132,
+      "position": 133,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/ojbbTu1fkNY/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/ojbbTu1fkNY"
@@ -1070,7 +1078,7 @@
     {
       "videoId": "_5wD5z-u9Ik",
       "title": "Q & A with GSD 008 with CC",
-      "position": 133,
+      "position": 134,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/_5wD5z-u9Ik/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/_5wD5z-u9Ik"
@@ -1078,7 +1086,7 @@
     {
       "videoId": "IAlbYg6e06E",
       "title": "Q & A with GSD 007 with CC",
-      "position": 134,
+      "position": 135,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/IAlbYg6e06E/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/IAlbYg6e06E"
@@ -1086,7 +1094,7 @@
     {
       "videoId": "XCzaFqD3_uA",
       "title": "Q & A with GSD 006 with CC",
-      "position": 135,
+      "position": 136,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/XCzaFqD3_uA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/XCzaFqD3_uA"
@@ -1094,7 +1102,7 @@
     {
       "videoId": "Ym3aLuY1Y_A",
       "title": "Q & A with GSD 005 with CC",
-      "position": 136,
+      "position": 137,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Ym3aLuY1Y_A/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Ym3aLuY1Y_A"
@@ -1102,7 +1110,7 @@
     {
       "videoId": "w2yOi7FKI64",
       "title": "Q & A with GSD 004 with CC",
-      "position": 137,
+      "position": 138,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/w2yOi7FKI64/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/w2yOi7FKI64"
@@ -1110,7 +1118,7 @@
     {
       "videoId": "jGl-TPbRsoI",
       "title": "Q & A with GSD 003 with CC",
-      "position": 138,
+      "position": 139,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/jGl-TPbRsoI/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/jGl-TPbRsoI"
@@ -1118,7 +1126,7 @@
     {
       "videoId": "s5OuezlpvjI",
       "title": "Q & A with GSD 002 with CC",
-      "position": 139,
+      "position": 140,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/s5OuezlpvjI/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/s5OuezlpvjI"
@@ -1126,7 +1134,7 @@
     {
       "videoId": "V553PtwM_qs",
       "title": "Q & A with GSD 001 with CC",
-      "position": 140,
+      "position": 141,
       "publishedAt": "2022-05-11T16:03:25Z",
       "thumbnail": "https://i.ytimg.com/vi/V553PtwM_qs/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/V553PtwM_qs"
