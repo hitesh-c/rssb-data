@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-09T15:14:24.827Z",
+  "last_updated": "2025-06-09T16:16:58.605Z",
   "playlist_id": "PL9Zg64loGCGD6Y_7uH_mpQehMTGkDI79F",
   "total_videos": 664,
   "videos": [
@@ -5260,41 +5260,17 @@
       "embedUrl": "https://www.youtube.com/embed/Tld0oEgfUGc"
     },
     {
-      "videoId": "6kzHbWK6J7E",
-      "title": "Guru Ka Dhyaan Kar Pyaare - Soami Ji Maharaj - RSSB Shabad",
-      "position": 657,
-      "publishedAt": "2025-04-27T03:12:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/6kzHbWK6J7E/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/6kzHbWK6J7E"
-    },
-    {
-      "videoId": "aaZBBKy5dZg",
-      "title": "Aashiq Raaz Maahi De - Hazrat Sultan Bahu Ji - RSSB Shabad",
-      "position": 658,
-      "publishedAt": "2025-04-27T03:49:27Z",
-      "thumbnail": "https://i.ytimg.com/vi/aaZBBKy5dZg/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/aaZBBKy5dZg"
-    },
-    {
       "videoId": "Zp9Doye14-I",
       "title": "Kaahe Ri Charan Guru Bhooli Ri Suratiya - Rai Sahib Saligram Ji - RSSB Shabad",
-      "position": 659,
+      "position": 657,
       "publishedAt": "2025-05-09T16:07:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Zp9Doye14-I/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Zp9Doye14-I"
     },
     {
-      "videoId": "zF5m0rqI3zU",
-      "title": "Baar Baar Karoon Benati Radhasoami Aage - Rai Sahib Saligram Ji - RSSB Shabad",
-      "position": 660,
-      "publishedAt": "2025-05-09T16:07:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/zF5m0rqI3zU/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/zF5m0rqI3zU"
-    },
-    {
       "videoId": "9NC8YMNItZA",
       "title": "Guru Pyaare Ke Darshan Karat Rahoon - Rai Sahib Saligram Ji - RSSB Shabad",
-      "position": 661,
+      "position": 658,
       "publishedAt": "2025-05-09T16:08:16Z",
       "thumbnail": "https://i.ytimg.com/vi/9NC8YMNItZA/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/9NC8YMNItZA"
@@ -5302,7 +5278,7 @@
     {
       "videoId": "Sj5UogQz2Hc",
       "title": "Mere Pyaare Guru Daataar - Rai Sahib Saligram Ji - RSSB Shabad",
-      "position": 662,
+      "position": 659,
       "publishedAt": "2025-05-09T16:08:53Z",
       "thumbnail": "https://i.ytimg.com/vi/Sj5UogQz2Hc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/Sj5UogQz2Hc"
@@ -5310,10 +5286,34 @@
     {
       "videoId": "XQ17oU1h5PQ",
       "title": "Mere Pyaare Rangeele Satguru - Rai Sahib Saligram Ji - RSSB Shabad",
-      "position": 663,
+      "position": 660,
       "publishedAt": "2025-05-09T16:09:14Z",
       "thumbnail": "https://i.ytimg.com/vi/XQ17oU1h5PQ/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/XQ17oU1h5PQ"
+    },
+    {
+      "videoId": "-lqhumMVtqA",
+      "title": "Baar Baar Karoon Benati Radhasoami Aage - Rai Sahib Saligram Ji - RSSB Shabad",
+      "position": 661,
+      "publishedAt": "2025-06-09T15:52:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/-lqhumMVtqA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-lqhumMVtqA"
+    },
+    {
+      "videoId": "oKzmK9TTqwU",
+      "title": "Aashiq Raaz Maahi De - Hazrat Sultan Bahu Ji - RSSB Shabad",
+      "position": 662,
+      "publishedAt": "2025-06-09T15:53:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/oKzmK9TTqwU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oKzmK9TTqwU"
+    },
+    {
+      "videoId": "w470ZXok_BY",
+      "title": "Guru Ka Dhyaan Kar Pyaare - Soami Ji Maharaj - RSSB Shabad",
+      "position": 663,
+      "publishedAt": "2025-06-09T15:54:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/w470ZXok_BY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/w470ZXok_BY"
     }
   ]
 }
