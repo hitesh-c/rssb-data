@@ -1,6 +1,151 @@
 {
-  "last_updated": "2025-06-12T18:19:03.561Z",
+  "last_updated": "2025-06-12T20:14:41.773Z",
   "playlist_id": "PL9Zg64loGCGAijSQf1ARuVTD6x0BE05H0",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 18,
+  "videos": [
+    {
+      "videoId": "SxMOOA17N14",
+      "title": "Contents - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/SxMOOA17N14/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SxMOOA17N14"
+    },
+    {
+      "videoId": "t3DI7-6GJKY",
+      "title": "Introduction - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2024-04-02T07:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/t3DI7-6GJKY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/t3DI7-6GJKY"
+    },
+    {
+      "videoId": "RTbfF5Sis18",
+      "title": "1. Part 1:  Search – Joy in My Tea Leaves - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2024-04-02T07:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/RTbfF5Sis18/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RTbfF5Sis18"
+    },
+    {
+      "videoId": "r6rSIeEaX7g",
+      "title": "2. On the Plain of Discovery - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/r6rSIeEaX7g/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/r6rSIeEaX7g"
+    },
+    {
+      "videoId": "AQ36jIqKFGI",
+      "title": "3. Moving Day - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2024-04-02T07:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/AQ36jIqKFGI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/AQ36jIqKFGI"
+    },
+    {
+      "videoId": "TsmIVhgnQ3E",
+      "title": "4. Neptune Calling - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2024-04-02T07:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/TsmIVhgnQ3E/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TsmIVhgnQ3E"
+    },
+    {
+      "videoId": "JUUuAk7Cyh8",
+      "title": "5. Shanti - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/JUUuAk7Cyh8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JUUuAk7Cyh8"
+    },
+    {
+      "videoId": "fWpMZuF45lc",
+      "title": "6. Fate Shuffles the Deck - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/fWpMZuF45lc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fWpMZuF45lc"
+    },
+    {
+      "videoId": "68a6w-pfDu0",
+      "title": "7. A Starry eyed Hitchhiker - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/68a6w-pfDu0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/68a6w-pfDu0"
+    },
+    {
+      "videoId": "MP0oFJq_GwM",
+      "title": "8. Getting Directions from the Vets - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/MP0oFJq_GwM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MP0oFJq_GwM"
+    },
+    {
+      "videoId": "bcHgQUCU27U",
+      "title": "9. Part 2: Encounter – At the Alchemist’s - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 10,
+      "publishedAt": "2024-04-02T07:40:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/bcHgQUCU27U/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/bcHgQUCU27U"
+    },
+    {
+      "videoId": "VpOcSmX0SEU",
+      "title": "10. By Love Eclipsed - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/VpOcSmX0SEU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/VpOcSmX0SEU"
+    },
+    {
+      "videoId": "vFM5XQG7jYw",
+      "title": "11. Metamorphosis - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/vFM5XQG7jYw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vFM5XQG7jYw"
+    },
+    {
+      "videoId": "s3NCPHyr_js",
+      "title": "12. Part 3 : Reflections – Letting Go - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/s3NCPHyr_js/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/s3NCPHyr_js"
+    },
+    {
+      "videoId": "TzKG3UKDf8o",
+      "title": "13. The Mind Soul Knot - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/TzKG3UKDf8o/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TzKG3UKDf8o"
+    },
+    {
+      "videoId": "S-saRpGKrJI",
+      "title": "14. The Infinity Spiral - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/S-saRpGKrJI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/S-saRpGKrJI"
+    },
+    {
+      "videoId": "B2qkwDQJCoM",
+      "title": "15. Homeward Bound - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/B2qkwDQJCoM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/B2qkwDQJCoM"
+    },
+    {
+      "videoId": "Xp61Dah9-2s",
+      "title": "Epilogue - A Soul's Safari (English) - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2024-01-31T19:43:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/Xp61Dah9-2s/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Xp61Dah9-2s"
+    }
+  ]
 }

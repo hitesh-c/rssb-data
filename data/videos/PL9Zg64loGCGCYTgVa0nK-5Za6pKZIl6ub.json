@@ -1,6 +1,135 @@
 {
-  "last_updated": "2025-06-12T18:18:33.246Z",
+  "last_updated": "2025-06-12T20:14:39.799Z",
   "playlist_id": "PL9Zg64loGCGCYTgVa0nK-5Za6pKZIl6ub",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 16,
+  "videos": [
+    {
+      "videoId": "RcvddlOp_Nc",
+      "title": "Contenido - Espiritualidad básica - RSSB Audiolibro",
+      "position": 0,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/RcvddlOp_Nc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RcvddlOp_Nc"
+    },
+    {
+      "videoId": "AUWbV9qzkL0",
+      "title": "1. Nuestra situación actual - Espiritualidad básica - RSSB Audiolibro",
+      "position": 1,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/AUWbV9qzkL0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/AUWbV9qzkL0"
+    },
+    {
+      "videoId": "kdqN2PISYyQ",
+      "title": "2. Las consecuencias de nuestras acciones - Espiritualidad básica - RSSB Audiolibro",
+      "position": 2,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/kdqN2PISYyQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kdqN2PISYyQ"
+    },
+    {
+      "videoId": "Qe_mmNUI5GI",
+      "title": "3. ¿Qué sucede a la hora de la muerte? - Espiritualidad básica - RSSB Audiolibro",
+      "position": 3,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/Qe_mmNUI5GI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Qe_mmNUI5GI"
+    },
+    {
+      "videoId": "olooM4l0Maw",
+      "title": "4. El ciclo interminable de la vida y la muerte - Espiritualidad básica - RSSB Audiolibro",
+      "position": 4,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/olooM4l0Maw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/olooM4l0Maw"
+    },
+    {
+      "videoId": "ehMLcjNeiUA",
+      "title": "5. Cómo prepararnos para la muerte - Espiritualidad básica - RSSB Audiolibro",
+      "position": 5,
+      "publishedAt": "2024-11-01T20:19:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/ehMLcjNeiUA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ehMLcjNeiUA"
+    },
+    {
+      "videoId": "tWPvVF400xY",
+      "title": "6. Desarrollando nuestra naturaleza espiritual - Espiritualidad básica - RSSB Audiolibro",
+      "position": 6,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/tWPvVF400xY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tWPvVF400xY"
+    },
+    {
+      "videoId": "mw8U2WaWYu0",
+      "title": "7. El origen de todo cuanto existe - Espiritualidad básica - RSSB Audiolibro",
+      "position": 7,
+      "publishedAt": "2024-11-01T20:22:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/mw8U2WaWYu0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/mw8U2WaWYu0"
+    },
+    {
+      "videoId": "MnRXRdBG3CE",
+      "title": "8. Los cinco pilares de la espiritualidad - Espiritualidad básica - RSSB Audiolibro",
+      "position": 8,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/MnRXRdBG3CE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MnRXRdBG3CE"
+    },
+    {
+      "videoId": "56E-8djXzB8",
+      "title": "9. La necesidad de un Maestro esperitual vivo - Espiritualidad básica - RSSB Audiolibro",
+      "position": 9,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/56E-8djXzB8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/56E-8djXzB8"
+    },
+    {
+      "videoId": "AIj1GKjvI1c",
+      "title": "10. ¿Por qué ser vegetarianos? - Espiritualidad básica - RSSB Audiolibro",
+      "position": 10,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/AIj1GKjvI1c/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/AIj1GKjvI1c"
+    },
+    {
+      "videoId": "OZgejiKUjXo",
+      "title": "11. Una vida espiritual sana - Espiritualidad básica - RSSB Audiolibro",
+      "position": 11,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/OZgejiKUjXo/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/OZgejiKUjXo"
+    },
+    {
+      "videoId": "a1-QYOQqbkw",
+      "title": "12. Oscureciendo nuestra visión - Espiritualidad básica - RSSB Audiolibro",
+      "position": 12,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/a1-QYOQqbkw/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/a1-QYOQqbkw"
+    },
+    {
+      "videoId": "eqsNkBq-YWg",
+      "title": "13. Meditación - Espiritualidad básica - RSSB Audiolibro",
+      "position": 13,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/eqsNkBq-YWg/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/eqsNkBq-YWg"
+    },
+    {
+      "videoId": "JDjvxKABH10",
+      "title": "14. Limitando al amor - Espiritualidad básica - RSSB Audiolibro",
+      "position": 14,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/JDjvxKABH10/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JDjvxKABH10"
+    },
+    {
+      "videoId": "GWSmEx9v9m4",
+      "title": "15. El camino real - Espiritualidad básica - RSSB Audiolibro",
+      "position": 15,
+      "publishedAt": "2024-10-26T20:52:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/GWSmEx9v9m4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GWSmEx9v9m4"
+    }
+  ]
 }

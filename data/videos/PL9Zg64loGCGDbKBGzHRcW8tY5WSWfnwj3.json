@@ -1,6 +1,231 @@
 {
-  "last_updated": "2025-06-12T18:18:37.790Z",
+  "last_updated": "2025-06-12T20:14:40.326Z",
   "playlist_id": "PL9Zg64loGCGDbKBGzHRcW8tY5WSWfnwj3",
-  "total_videos": 0,
-  "videos": []
+  "total_videos": 28,
+  "videos": [
+    {
+      "videoId": "fBW7BPUqbo0",
+      "title": "Contents - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 0,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/fBW7BPUqbo0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fBW7BPUqbo0"
+    },
+    {
+      "videoId": "gVkagPagpjE",
+      "title": "Foreword - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 1,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/gVkagPagpjE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/gVkagPagpjE"
+    },
+    {
+      "videoId": "RlvHhqqyYRA",
+      "title": "Prologue - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 2,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/RlvHhqqyYRA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RlvHhqqyYRA"
+    },
+    {
+      "videoId": "l8vX7WfVLmQ",
+      "title": "1. Listening to Inaudible Music : A Prelude - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 3,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/l8vX7WfVLmQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/l8vX7WfVLmQ"
+    },
+    {
+      "videoId": "bniYlu_vaYU",
+      "title": "2. A Personal Journey - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 4,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/bniYlu_vaYU/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/bniYlu_vaYU"
+    },
+    {
+      "videoId": "p9SNVrqyMo8",
+      "title": "3. The Eternal Quest - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 5,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/p9SNVrqyMo8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/p9SNVrqyMo8"
+    },
+    {
+      "videoId": "SgzGy2Bg1uQ",
+      "title": "4. Expanding Consciousness - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 6,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/SgzGy2Bg1uQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SgzGy2Bg1uQ"
+    },
+    {
+      "videoId": "IKeQPVRLhA0",
+      "title": "5. Paradox and Jigsaw Puzzle - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 7,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/IKeQPVRLhA0/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/IKeQPVRLhA0"
+    },
+    {
+      "videoId": "KMsoHDpjVw8",
+      "title": "6. Victim and Culprit - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 8,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/KMsoHDpjVw8/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/KMsoHDpjVw8"
+    },
+    {
+      "videoId": "aA0-xsAk4SI",
+      "title": "7. Fate and Free Will - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 9,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/aA0-xsAk4SI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/aA0-xsAk4SI"
+    },
+    {
+      "videoId": "bsade_JRpt4",
+      "title": "8. God Cannot Reveal Himself to the Contaminated Mind",
+      "position": 10,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/bsade_JRpt4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/bsade_JRpt4"
+    },
+    {
+      "videoId": "SzHQtCdhiVA",
+      "title": "9. God and Man's Relationship - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 11,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/SzHQtCdhiVA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SzHQtCdhiVA"
+    },
+    {
+      "videoId": "QMt2L8quaps",
+      "title": "10. Rubber-Stamped at Birth - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 12,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/QMt2L8quaps/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QMt2L8quaps"
+    },
+    {
+      "videoId": "kYArshqCZ5w",
+      "title": "11. Sant Mat History - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 13,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/kYArshqCZ5w/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kYArshqCZ5w"
+    },
+    {
+      "videoId": "KdpEYJiTgz4",
+      "title": "12. Listening to the Creative Sound - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 14,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/KdpEYJiTgz4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/KdpEYJiTgz4"
+    },
+    {
+      "videoId": "R9JiK4FXg1I",
+      "title": "13. Inner Experience—Reticence - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 15,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/R9JiK4FXg1I/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/R9JiK4FXg1I"
+    },
+    {
+      "videoId": "uWrIVTYscxI",
+      "title": "14. Man Is the Top of Creation but —? - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 16,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/uWrIVTYscxI/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uWrIVTYscxI"
+    },
+    {
+      "videoId": "urwCOnVjB68",
+      "title": "15. End to Reincarnation - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 17,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/urwCOnVjB68/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/urwCOnVjB68"
+    },
+    {
+      "videoId": "wx76Sx0myEA",
+      "title": "16. Spirit Enslaved by Mind - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 18,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/wx76Sx0myEA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/wx76Sx0myEA"
+    },
+    {
+      "videoId": "vZu5P7VjY7Q",
+      "title": "17. The Tenth Door - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 19,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/vZu5P7VjY7Q/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vZu5P7VjY7Q"
+    },
+    {
+      "videoId": "HBDG7geov_k",
+      "title": "18. Diet and Karma - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 20,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/HBDG7geov_k/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/HBDG7geov_k"
+    },
+    {
+      "videoId": "dhHXig75dZE",
+      "title": "19. Inner Lights and Sounds - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 21,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/dhHXig75dZE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dhHXig75dZE"
+    },
+    {
+      "videoId": "wTTsx48n5Yk",
+      "title": "20. Passing the Delectable Islands - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 22,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/wTTsx48n5Yk/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/wTTsx48n5Yk"
+    },
+    {
+      "videoId": "qcrcGdCMdOQ",
+      "title": "21. Saints Are Men of God - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 23,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/qcrcGdCMdOQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/qcrcGdCMdOQ"
+    },
+    {
+      "videoId": "2W85czoUHAY",
+      "title": "22. The Smiles of Tiny Children - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 24,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/2W85czoUHAY/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/2W85czoUHAY"
+    },
+    {
+      "videoId": "QWXqKB8cGSE",
+      "title": "23. The Soap of Poverty - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 25,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/QWXqKB8cGSE/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QWXqKB8cGSE"
+    },
+    {
+      "videoId": "yUKJalwTX3A",
+      "title": "24. The One God of Us All - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 26,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/yUKJalwTX3A/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yUKJalwTX3A"
+    },
+    {
+      "videoId": "661ziUaW8Rc",
+      "title": "Epilogue : The Story of the Rich Merchant - The Mystic Philosophy of Sant Mat - RSSB Audio Book",
+      "position": 27,
+      "publishedAt": "2024-08-31T23:51:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/661ziUaW8Rc/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/661ziUaW8Rc"
+    }
+  ]
 }
