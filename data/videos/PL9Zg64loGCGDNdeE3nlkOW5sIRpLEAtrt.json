@@ -1,39 +1,6 @@
 {
-  "last_updated": "2025-06-12T17:12:21.373Z",
+  "last_updated": "2025-06-12T18:19:31.118Z",
   "playlist_id": "PL9Zg64loGCGDNdeE3nlkOW5sIRpLEAtrt",
-  "total_videos": 4,
-  "videos": [
-    {
-      "videoId": "ga9B4YPBFHU",
-      "title": "1. Contents  - My Submission (English) - RSSB Audio Book",
-      "position": 0,
-      "publishedAt": "2023-09-16T00:06:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/ga9B4YPBFHU/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/ga9B4YPBFHU"
-    },
-    {
-      "videoId": "lFmbEp7YFzU",
-      "title": "2. Preface - My Submission (English) - RSSB Audio Book",
-      "position": 1,
-      "publishedAt": "2023-09-16T00:07:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/lFmbEp7YFzU/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/lFmbEp7YFzU"
-    },
-    {
-      "videoId": "foDk9O_4sCo",
-      "title": "3. Part One - Spirituality and Religion - My Submission (English) - RSSB Audio Book",
-      "position": 2,
-      "publishedAt": "2023-09-16T00:07:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/foDk9O_4sCo/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/foDk9O_4sCo"
-    },
-    {
-      "videoId": "dvx0TkJT6rQ",
-      "title": "4. Part Two - Spiritual Practice - My Submission (English) - RSSB Audio Book",
-      "position": 3,
-      "publishedAt": "2023-09-16T00:07:53Z",
-      "thumbnail": "https://i.ytimg.com/vi/dvx0TkJT6rQ/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/dvx0TkJT6rQ"
-    }
-  ]
+  "total_videos": 0,
+  "videos": []
 }
