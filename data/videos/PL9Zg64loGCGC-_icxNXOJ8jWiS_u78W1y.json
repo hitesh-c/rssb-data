@@ -1,0 +1,47 @@
+{
+  "last_updated": "2025-07-26T11:11:30.747Z",
+  "playlist_id": "PL9Zg64loGCGC-_icxNXOJ8jWiS_u78W1y",
+  "total_videos": 5,
+  "videos": [
+    {
+      "videoId": "iA0R8OceIsA",
+      "title": "1. Contents - Sant Paltu (English) - RSSB Audiobook",
+      "position": 0,
+      "publishedAt": "2025-07-26T02:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/iA0R8OceIsA/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iA0R8OceIsA"
+    },
+    {
+      "videoId": "tP_kh_KdDbM",
+      "title": "2. Preface to the Third Edition - Sant Paltu (English) - RSSB Audiobook",
+      "position": 1,
+      "publishedAt": "2025-07-26T02:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/tP_kh_KdDbM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tP_kh_KdDbM"
+    },
+    {
+      "videoId": "8kUJ8r_Pm-M",
+      "title": "3. Author’s Foreword - Sant Paltu (English) - RSSB Audiobook",
+      "position": 2,
+      "publishedAt": "2025-07-26T02:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/8kUJ8r_Pm-M/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8kUJ8r_Pm-M"
+    },
+    {
+      "videoId": "5wQJIO7rZK4",
+      "title": "4. Part One   Life and Teachings - Sant Paltu (English) - RSSB Audiobook",
+      "position": 3,
+      "publishedAt": "2025-07-26T02:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/5wQJIO7rZK4/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5wQJIO7rZK4"
+    },
+    {
+      "videoId": "R96BCm7nlnQ",
+      "title": "5. Part Two   Selected Poems - Sant Paltu (English) - RSSB Audiobook",
+      "position": 4,
+      "publishedAt": "2025-07-26T02:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/R96BCm7nlnQ/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/R96BCm7nlnQ"
+    }
+  ]
+}
