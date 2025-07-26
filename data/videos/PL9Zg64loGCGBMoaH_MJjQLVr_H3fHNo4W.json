@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-07-26T01:07:15.821Z",
+  "last_updated": "2025-07-26T03:21:31.207Z",
   "playlist_id": "PL9Zg64loGCGBMoaH_MJjQLVr_H3fHNo4W",
-  "total_videos": 26,
+  "total_videos": 27,
   "videos": [
     {
       "videoId": "GwzV016DMBI",
@@ -210,6 +210,14 @@
       "publishedAt": "2024-02-29T18:09:12Z",
       "thumbnail": "https://i.ytimg.com/vi/liJupFDt2s0/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/liJupFDt2s0"
+    },
+    {
+      "videoId": "zU_TOb8TzyM",
+      "title": "Questions and Answers - Maharaj Charan Singh Ji - Volume 27 - RSSB",
+      "position": 26,
+      "publishedAt": "2025-07-26T02:58:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/zU_TOb8TzyM/default.jpg",
+      "embedUrl": "https://www.youtube.com/embed/zU_TOb8TzyM"
     }
   ]
 }
