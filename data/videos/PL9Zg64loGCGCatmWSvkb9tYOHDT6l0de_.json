@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-07-27T11:11:09.820Z",
+  "last_updated": "2025-07-27T12:26:08.943Z",
   "playlist_id": "PL9Zg64loGCGCatmWSvkb9tYOHDT6l0de_",
-  "total_videos": 8,
+  "total_videos": 7,
   "videos": [
     {
       "videoId": "QLD-dEOInZM",
@@ -52,17 +52,9 @@
       "embedUrl": "https://www.youtube.com/embed/S14Dz9dEdF0"
     },
     {
-      "videoId": "ySikpZp2wBE",
-      "title": "Brain Death Kya Hai? - Hindi con subtítulos en Español - ¿Qué es la muerte cerebral? - RSSB",
-      "position": 6,
-      "publishedAt": "2022-06-13T10:24:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/ySikpZp2wBE/default.jpg",
-      "embedUrl": "https://www.youtube.com/embed/ySikpZp2wBE"
-    },
-    {
       "videoId": "_6klmECXAoc",
       "title": "Anmol Tohfa - Hindi con subtítulos en Español - Donación de riñón - RSSB",
-      "position": 7,
+      "position": 6,
       "publishedAt": "2022-05-11T13:06:04Z",
       "thumbnail": "https://i.ytimg.com/vi/_6klmECXAoc/default.jpg",
       "embedUrl": "https://www.youtube.com/embed/_6klmECXAoc"
