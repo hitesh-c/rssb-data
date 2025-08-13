@@ -3,7 +3,7 @@ name: Fetch YouTube Channel Playlists
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # every hour (adjust as needed)
+    - cron:  (adjust as needed)
 
 jobs:
   fetch-playlists:
