@@ -3,7 +3,7 @@ name: Fetch YouTube Channel Playlists
 on:
   workflow_dispatch:
   schedule:
-    - cron:  (adjust as needed)
+    - cron: '0 0 * * *'
 
 jobs:
   fetch-playlists:
@@ -20,11 +20,11 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-        working-directory: ./scripts
+        working-directory: ./audio
 
       - name: Run Script to Fetch Playlists
-        run: node fetchPlaylists.js
-        working-directory: ./scripts
+        run: node script.js
+        working-directory: ./audio
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CHANNEL_ID: "UCrpUt9GBfmuaNUIcek8FUZw"
