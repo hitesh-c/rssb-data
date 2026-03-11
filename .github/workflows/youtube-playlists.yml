@@ -1,7 +1,12 @@
+name: Fetch Playlists
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   fetch-playlists:
@@ -10,11 +15,13 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "20"
 
       - name: Install Dependencies
         run: npm install
@@ -23,14 +30,18 @@ jobs:
         run: node script.js
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          CHANNEL_ID: "UCrpUt9GBfmuaNUIcek8FUZw"
+          CHANNEL_ID: UCrpUt9GBfmuaNUIcek8FUZw
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/ || echo "Nothing to add"
-          git commit -m "Update playlists.json [auto]" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          git add data/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update playlists.json [auto]"
+            git push
+          fi
